@@ -1,0 +1,158 @@
+#name T
+#subtypes singular plural
+#entry
+    #values dawn, dawns
+    #classes timeofday
+#entry
+    #values morning, mornings
+    #classes timeofday
+#entry
+    #values noon, noons
+    #classes timeofday
+#entry
+    #values day, days
+    #classes timeofday
+#entry
+    #values afternoon, afternoons
+    #classes timeofday
+#entry
+    #values evening, evenings
+    #classes timeofday
+#entry
+    #values dusk, dusks
+    #classes timeofday
+#entry
+    #values night, nights
+    #classes timeofday
+#entry
+    #values midnight, midnights
+    #classes timeofday
+#entry
+    #values Sunday, Sundays
+    #classes dayofweek
+#entry
+    #values Monday, Mondays
+    #classes dayofweek
+#entry
+    #values Tuesday, Tuesdays
+    #classes dayofweek
+#entry
+    #values Wednesday, Wednesdays
+    #classes dayofweek
+#entry
+    #values Thursday, Thursdays
+    #classes dayofweek
+#entry
+    #values Friday, Fridays
+    #classes dayofweek
+#entry
+    #values Saturday, Saturdays
+    #classes dayofweek
+#entry
+    #values January, Januaries
+    #classes month
+#entry
+    #values February, Februaries
+    #classes month
+#entry
+    #values March, Marches
+    #classes month
+#entry
+    #values April, Aprils
+    #classes month
+#entry
+    #values May, Mays
+    #classes month
+#entry
+    #values June, Junes
+    #classes month
+#entry
+    #values July, Julies
+    #classes month
+#entry
+    #values August, Augusts
+    #classes month
+#entry
+    #values September, Septembers
+    #classes month
+#entry
+    #values October, Octobers
+    #classes month
+#entry
+    #values November, Novembers
+    #classes month
+#entry
+    #values December, Decembers
+    #classes month
+#entry
+    #values New Year's Eve, New Year's Eves
+    #classes holiday
+#entry
+    #values New Year's Day, New Year's Days
+    #classes holiday
+#entry
+    #values Valentine's Day, Valentine's Days
+    #classes holiday
+#entry
+    #values Easter, Easters
+    #classes holiday
+#entry
+    #values Labor Day, Labor Days
+    #classes holiday
+#entry
+    #values Halloween, Halloweens
+    #classes holiday
+#entry
+    #values Thanksgiving, Thanksgivings
+    #classes holiday
+#entry
+    #values Christmas, Christmasses
+    #classes holiday
+#entry
+    #values Hanukkah, Hanukkahs
+    #classes holiday
+#entry
+    #values Black Friday, Black Fridays
+    #classes holiday
+#entry
+    #values Kwanzaa, Kwanzaas
+    #classes holiday
+#entry
+    #values Boxing Day, Boxing Days
+    #classes holiday
+#entry
+    #values Labor Day, Labor Days
+    #classes holiday
+#entry
+    #values Father's Day, Father's Days
+    #classes holiday
+#entry
+    #values Mother's Day, Mother's Days
+    #classes holiday
+#entry
+    #values Groundhog Day, Groundhog Days
+    #classes holiday
+#entry
+    #values millisecond, milliseconds
+    #classes unit
+#entry
+    #values second, seconds
+    #classes unit
+#entry
+    #values minute, minutes
+    #classes unit
+#entry
+    #values hour, hours
+    #classes unit
+#entry
+    #values day, days
+    #classes unit
+#entry
+    #values month, months
+    #classes unit
+#entry
+    #values year, years
+    #classes unit
+#entry
+    #values century, centuries
+    #classes unit

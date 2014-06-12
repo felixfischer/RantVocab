@@ -1,0 +1,84 @@
+#name V
+#subtypes normal ing ed s er
+#entry
+    #values shine, shining, shone, shines, shiner
+#entry
+    #values gleam, gleaming, gleamed, gleams, gleamer
+#entry
+    #values crumple, crumpling, crumpled, crumples, crumpler
+#entry
+    #values sparkle, sparkling, sparkled, sparkles, sparkler
+#entry
+    #values bloom, blooming, bloomed, blooms, bloomer
+#entry
+    #values grow, growing, grew, grows, grower
+#entry
+    #values shrink, shrinking, shrunk, shrinks, shrinker
+#entry
+    #values glow, glowing, glowed, glows, glower
+#entry
+    #values lighten, lightening, lightened, lightens, lightener
+#entry
+    #values darken, darkening, darkened, darkens, darkener
+#entry
+    #values steam, steaming, steamed, steams, steamer
+#entry
+    #values flash, flashing, flashed, flashes, flasher
+#entry
+    #values bubble, bubbling, bubbled, bubbles, bubbler
+#entry
+    #values burn, burning, burned, burns, burner
+#entry
+    #values flutter, fluttering, fluttered, flutters, flutterer
+#entry
+    #values flap, flapping, flapped, flaps, flapper
+#entry
+    #values ripple, rippling, rippled, ripples, rippler
+#entry
+    #values smolder, smoldering, smoldered, smolders, smolderer
+#entry
+    #values fizz, fizzing, fizzed, fizzes, fizzer
+#entry
+    #values fester, festering, festered, festers, festerer
+#entry
+    #values froth, frothing, frothed, froths, frother
+#entry
+    #values rise, rising, rose, rises, riser
+#entry
+    #values churn, churning, churned, churns, churner
+#entry
+    #values shimmer, shimmering, shimmered, shimmers, shimmerer
+#entry
+    #values blossom, blossoming, blossomed, blossoms, blossomer
+#entry
+    #values wilt, wilting, wilted, wilts, wilter
+#entry
+    #values twinkle, twinkling, twinkled, twinkles, twinkler
+#entry
+    #values radiate, radiating, radiated, radiates, radiator
+#entry
+    #values bloat, bloating, bloated, bloats, bloater
+#entry
+    #values twist, twisting, twisted, twists, twister
+#entry
+    #values wave, waving, waved, waves, waver
+#entry
+    #values shudder, shuddering, shuddered, shudders, shudderer
+#entry
+    #values shiver, shivering, shivered, shivers, shiverer
+#entry
+    #values shake, shaking, shook, shakes, shaker
+#entry
+    #values soften, softening, softened, softens, softener
+#entry
+    #values harden, hardening, hardened, hardens, hardener
+#entry
+    #values bleed, bleeding, bled, bleeds, bleeder
+#entry
+    #values crack, cracking, cracked, cracks, cracker
+#entry
+    #values blacken, blackening, blackened, blackens, blackener
+#entry
+    #values whiten, whitening, whitened, whitens, whitener
+#entry
+    #values wiggle, wiggling, wiggled, wiggles, wiggler

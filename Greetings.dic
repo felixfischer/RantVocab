@@ -1,0 +1,48 @@
+#name greet
+#one
+#entry
+    #values hello
+#entry
+    #values greetings
+#entry
+    #values hola
+#entry
+    #values hey
+#entry
+    #values what's up
+#entry
+    #values whazzup
+#entry
+    #values yo
+#entry
+    #values good day
+#entry
+    #values good morning
+#entry
+    #values good afternoon
+#entry
+    #values good evening
+#entry
+    #values good night
+#entry
+    #values hey buddy
+#entry
+    #values ahoy
+#entry
+    #values sup
+#entry
+    #values salutations
+#entry
+    #values aloha
+#entry
+    #values konichi wa
+#entry
+    #values what's happening
+#entry
+    #values how's it hanging
+#entry
+    #values how's it going
+#entry
+    #values what's new
+#entry
+	#values guten Tag

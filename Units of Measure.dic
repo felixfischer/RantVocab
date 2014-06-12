@@ -1,0 +1,83 @@
+#name u
+#subtypes singular plural abbr
+#entry
+    #values centimeter, centimeters, cm
+    #classes length
+#entry
+    #values meter, meters, m
+    #classes length
+#entry
+    #values kilometer, kilometers, km
+    #classes length
+#entry
+    #values inch, inches, in
+    #classes length
+#entry
+    #values foot, feet, ft
+    #classes length
+#entry
+    #values yard, yards, y
+    #classes length
+#entry
+    #values mile, miles, mi
+    #classes length
+#entry
+    #values light-year, light-years, ly
+    #classes length
+#entry
+    #values pound, pounds, lb
+    #classes weight
+#entry
+    #values gram, grams, g
+    #classes weight
+#entry
+    #values kilogram, kilograms, kg
+    #classes weight
+#entry
+    #values ton, tons, t
+    #classes weight
+#entry
+    #values megaton, megatons, Mt
+    #classes weight
+#entry
+    #values ounce, ounces, oz
+    #classes weight
+#entry
+    #values gallon, gallons, gal
+    #classes volume
+#entry
+    #values bucket, buckets, bucket
+    #classes volume
+#entry
+    #values liter, liters, L
+    #classes volume
+#entry
+    #values teaspoon, teaspoons, tsp
+    #classes volume
+#entry
+    #values cup, cups, c
+    #classes volume
+#entry
+    #values quart, quarts, qt
+    #classes volume
+#entry
+    #values pint, pints, pt
+    #classes volume
+#entry
+    #values milliliter, milliliters, mL
+    #classes volume
+#entry
+    #values tablespoon, tablespoons, tbsp
+    #classes volume
+#entry
+    #values decibel, decibels, dB
+    #classes pressure
+#entry
+    #values pascal, pascals, Pa
+    #classes pressure
+#entry
+    #values kilopascal, kilopascals, kPa
+    #classes pressure
+#entry
+    #values cubic centimeter, cubic centimeters, cc
+    #classes volume

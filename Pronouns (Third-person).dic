@@ -1,0 +1,8 @@
+#name p
+#subtypes obj nom self poss s
+#entry
+    #values him, he, himself, his, his
+    #classes male
+#entry
+    #values her, she, herself, her, hers
+    #classes female

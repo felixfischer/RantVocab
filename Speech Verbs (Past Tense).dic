@@ -1,0 +1,110 @@
+#name s
+#subtypes said sound
+#entry
+    #values said, saying
+#entry
+    #values shot, shot
+#entry
+    #values called, call
+#entry
+    #values croaked, croak
+    #classes emotional
+#entry
+    #values cried, cry
+    #classes emotional
+#entry
+    #values whimpered, whimper
+    #classes emotional
+#entry
+    #values mumbled, mumble
+    #classes emotional
+#entry
+    #values screamed, scream
+    #classes emotional
+#entry
+    #values shrieked, shriek
+    #classes emotional
+#entry
+    #values moaned, moan
+    #classes emotional
+#entry
+    #values shouted, shout
+    #classes emotional
+#entry
+    #values yelled, yell
+    #classes emotional
+#entry
+    #values wailed, wail
+    #classes emotional
+#entry
+    #values swore, swear
+    #classes emotional
+#entry
+    #values bawled, bawl
+    #classes emotional
+#entry
+    #values snapped, snap
+    #classes emotional
+#entry
+    #values whispered, whisper
+    #classes emotional
+#entry
+    #values cackled, cackle
+    #classes emotional
+#entry
+    #values grunted, grunt
+    #classes emotional
+#entry
+    #values roared, roar
+    #classes emotional
+#entry
+    #values snorted, snort
+    #classes emotional
+#entry
+    #values whined, whine
+    #classes emotional
+#entry
+    #values screeched, screech
+    #classes emotional
+#entry
+    #values squealed, squeal
+    #classes emotional
+#entry
+    #values hooted, hoot
+    #classes emotional
+#entry
+    #values ejaculated, ejaculation
+    #classes emotional
+#entry
+    #values squelched, squelch
+    #classes emotional
+#entry
+    #values spat, spit
+    #classes emotional
+#entry
+    #values declared, declaration
+    #classes emotional
+#entry
+    #values breathed, breath
+    #classes emotional
+#entry
+    #values announced, announcement
+    #classes emotional
+#entry
+    #values snickered, snicker
+    #classes emotional
+#entry
+    #values beeped, beep
+    #classes emotional
+#entry
+    #values exclaimed, exclamation
+    #classes emotional
+#entry
+    #values burped, burp
+    #classes emotional
+#entry
+    #values laughed, laugh
+    #classes emotional
+#entry
+    #values muttered, mutter
+    #classes emotional

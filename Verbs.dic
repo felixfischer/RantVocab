@@ -1,0 +1,773 @@
+#name verb
+#subtypes simple ing ed s er pp noun
+#entry
+    #values whisper, whispering, whispered, whispers, whisperer, whispered, whispering
+#entry
+    #values spelunk, spelunking, spelunked, spelunks, spelunker, spelunked, spelunking
+#entry
+    #values invigorate, invigorating, invigorated, invigorates, invigorator, invigorated, invigoration
+#entry
+    #values extrapolate, extrapolating, extrapolated, extrapolates, extrapolator, extrapolated, extrapolation
+#entry
+    #values extrude, extruding, extruded, extrudes, extruder, extruded, extruding
+#entry
+    #values squelch, squelching, squelched, squelches, squelcher, squelched, squelching
+#entry
+    #values articulate, articulating, articulated, articulates, articulator, articulated, articulation
+#entry
+    #values transcribe, transcribing, transcribed, transcribes, transcriber, transcribed, transcribing
+#entry
+    #values draft, drafting, drafted, drafts, drafter, drafted, drafting
+#entry
+    #values tune, tuning, tuned, tunes, tuner, tuned, tunings
+#entry
+    #values withdraw, withdrawing, withdrew, withdraws, withdrawer, withdrawn, withdrawing
+#entry
+    #values strategize, strategizing, strategized, strategizes, strategizer, strategized, strategizing
+#entry
+    #values zip, zipping, zipped, zips, zipper, zipped, zipping
+#entry
+    #values extend, extending, extended, extends, extender, extended, extending
+#entry
+    #values streamline, streamlining, streamlined, streamlines, streamliner, streamlined, streamlining
+#entry
+    #values organize, organizing, organized, organizes, organizer, organized, organization
+#entry
+    #values quantify, quantifying, quantified, quantifies, quantifier, quantified, quantification
+#entry
+    #values grate, grating, grated, grates, grater, grated, grating
+#entry
+    #values tape, taping, taped, tapes, taper, taped, taping
+#entry
+    #values oil, oiling, oiled, oils, oiler, oiled, oiling
+#entry
+    #values strap, strapping, strapped, straps, strapper, strapped, strapping
+#entry
+    #values snoop, snooping, snooped, snoops, snooper, snooped, snooping
+    #classes walk
+#entry
+    #values click, clicking, clicked, clicks, clicker, clicked, clicking
+#entry
+    #values flap, flapping, flapped, flaps, flapper, flapped, flapping
+#entry
+    #values cultivate, cultivating, cultivated, cultivates, cultivater, cultivated, cultivation
+#entry
+    #values moan, moaning, moaned, moans, moaner, moaned, moaning
+#entry
+    #values discipline, disciplining, disciplined, disciplines, discipliner, disciplined, discipline
+#entry
+    #values rustle, rustling, rustled, rustles, rustler, rustled, rustling
+#entry
+    #values examine, examining, examined, examines, examiner, examined, examination
+#entry
+    #values fiddle, fiddling, fiddled, fiddles, fiddler, fiddled, fiddling
+#entry
+    #values stew, stewing, stewed, stews, stewer, stewed, stewing
+#entry
+    #values stir, stirring, stirred, stirs, stirrer, stirred, stirring
+#entry
+    #values hug, hugging, hugged, hugs, hugger, hugged, hugging
+#entry
+    #values pop, popping, popped, pops, popper, popped, popping
+#entry
+    #values hiccup, hiccuping, hiccuped, hiccups, hiccuper, hiccuped, hiccuping
+#entry
+    #values sanitize, sanitizing, sanitized, sanitizes, sanitizer, sanitized, sanitization
+#entry
+    #values clean, cleaning, cleaned, cleans, cleaner, cleaned, cleaning
+#entry
+    #values touch, touching, touched, touches, toucher, touched, touching
+#entry
+    #values vibrate, vibrating, vibrated, vibrates, vibrator, vibrated, vibration
+#entry
+    #values strain, straining, strained, strains, strainer, strained, straining
+#entry
+    #values kill, killing, killed, kills, killer, killed, killing
+#entry
+    #values barbeque, barbequing, barbequed, barbeques, barbequer, barbequed, barbequing
+#entry
+    #values gargle, gargling, gargled, gargles, gargler, gargled, gargling
+#entry
+    #values crumple, crumpling, crumpled, crumples, crumpler, crumpled, crumpling
+#entry
+    #values salt, salting, salted, salts, salter, salted, salting
+#entry
+    #values season, seasoning, seasoned, seasons, seasoner, seasoned, seasoning
+#entry
+    #values marinate, marinating, marinated, marinates, marinater, marinated, marination
+#entry
+    #values pickle, pickling, pickled, pickles, pickler, pickled, pickling
+#entry
+    #values polish, polishing, polished, polishes, polisher, polished, polishing
+#entry
+    #values caress, caressing, caressed, caresses, caresser, caressed, caressing
+#entry
+    #values stimulate, stimulating, stimulated, stimulates, stimulator, stimulated, stimulation
+#entry
+    #values hunt, hunting, hunted, hunts, hunter, hunted, hunting
+#entry
+    #values dishonor, dishonoring, dishonored, dishonors, dishonorer, dishonored, dishonoring
+#entry
+    #values puff, puffing, puffed, puffs, puffer, puffed, puffing
+#entry
+    #values suckle, suckling, suckled, suckles, suckler, suckled, suckling
+#entry
+    #values squeeze, squeezing, squeezed, squeezes, squeezer, squeezed, squeezing
+#entry
+    #values infest, infesting, infested, infests, infester, infested, infestation
+#entry
+    #values tap, tapping, tapped, taps, tapper, tapped, tapping
+#entry
+    #values probe, probing, probed, probes, proper, probed, probing
+#entry
+    #values tinkle, tinkling, tinkled, tinkles, tinkler, tinkled, tinkling
+#entry
+    #values blast, blasting, blasted, blasts, blaster, blasted, blasting
+#entry
+    #values shave, shaving, shaved, shaves, shaver, shaved, shaving
+#entry
+    #values wrinkle, wrinkling, wrinkled, wrinkles, wrinkler, wrinkled, wrinkling
+#entry
+    #values kiss, kissing, kissed, kisses, kisser, kissed, kissing
+#entry
+    #values cuddle, cuddling, cuddled, cuddles, cuddler, cuddled, cuddling
+#entry
+    #values soak, soaking, soaked, soaks, soaker, soaked, soaking
+#entry
+    #values grip, gripping, gripped, grips, gripper, gripped, gripping
+#entry
+    #values jerk, jerking, jerked, jerks, jerker, jerked, jerking
+#entry
+    #values scrub, scrubbing, scrubbed, scrubs, scrubber, scrubbed, scrubbing
+#entry
+    #values mist, misting, misted, mists, mister, misted, misting
+#entry
+    #values burn, burning, burned, burns, burner, burnt, burning
+#entry
+    #values freeze, freezing, froze, freezes, freezer, frozen, freezing
+#entry
+    #values dry-freeze, dry-freezing, dry-froze, dry-freezes, dry-freezer, dry-frozen, dry-freezing
+#entry
+    #values bake, baking, baked, bakes, baker, baked, baking
+#entry
+    #values deep-fry, deep-frying, deep-fried, deep-fries, deep-frier, deep-fried, deep-frying
+#entry
+    #values swallow, swallowing, swallowed, swallows, swallower, swallowed, swallowing
+#entry
+    #values flatten, flattening, flattened, flattens, flattener, flattened, flattening
+#entry
+    #values glue, gluing, glued, glues, gluer, glued, gluing
+#entry
+    #values rub, rubbing, rubbed, rubs, rubber, rubbed, rubbing
+#entry
+    #values swipe, swiping, swiped, swipes, swiper, swiped, swiping
+#entry
+    #values rot, rotting, rotted, rots, rotter, rotten, rotting
+#entry
+    #values sculpt, sculpting, sculpted, sculpts, sculptor, sculpted, sculpture
+#entry
+    #values iron, ironing, ironed, irons, ironer, ironed, ironing
+#entry
+    #values roll, rolling, rolled, rolls, roller, rolled, rolling
+#entry
+    #values slit, slitting, slit, slits, slitter, slit, slitting
+#entry
+    #values cut, cutting, cut, cuts, cutter, cut, cutting
+#entry
+    #values loosen, loosening, loosened, loosens, loosener, loosened, loosening
+#entry
+    #values tighten, tightening, tightened, tightens, tightener, tightened, tightening
+#entry
+    #values penetrate, penetrating, penetrated, penetrates, penetrator, penetrated, penetration
+#entry
+    #values strike, striking, struck, strikes, striker, stricken, striking
+#entry
+    #values recycle, recycling, recycled, recycles, recycler, recycled, recycling
+#entry
+    #values groom, grooming, groomed, grooms, groomer, groomed, grooming
+#entry
+    #values hypnotize, hypnotizing, hypnotized, hypnotizes, hypnotist, hypnotized, hypnotization
+#entry
+    #values dig, digging, dug, digs, digger, dug, digging
+#entry
+    #values crush, crushing, crushed, crushes, crusher, crushed, crushing
+#entry
+    #values cook, cooking, cooked, cooks, cooker, cooked, cooking
+#entry
+    #values rattle, rattling, rattled, rattles, rattler, rattled, rattling
+#entry
+    #values massage, massaging, massaged, massages, massager, massaged, massage
+#entry
+    #values toke, toking, toked, tokes, toker, toked, toking
+#entry
+    #values pull, pulling, pulled, pulls, puller, pulled, pulling
+#entry
+    #values yank, yanking, yanked, yanks, yanker, yanked, yanking
+#entry
+    #values dice, dicing, diced, dices, dicer, diced, dicing
+#entry
+    #values chop, chopping, chopped, chops, chopper, chopped, chopping
+#entry
+    #values boil, boiling, boiled, boils, boiler, boiled, boiling
+#entry
+    #values uproot, uprooting, uprooted, uproots, uprooter, uprooted, uprooting
+#entry
+    #values clip, clipping, clipped, clips, clipper, clipped, clipping
+#entry
+    #values stroke, stroking, stroked, strokes, stroker, stroked, stroking
+#entry
+    #values plaster, plastering, plastered, plasters, plasterer, plastered, plastering
+#entry
+    #values scrunch, scrunching, scrunched, scrunches, scruncher, scrunched, scrunching
+#entry
+    #values superglue, supergluing, superglued, superglues, supergluer, superglued, supergluing
+#entry
+    #values embrace, embracing, embraced, embraces, embracer, embraced, embrace
+#entry
+    #values smoke, smoking, smoked, smokes, smoker, smoked, smoking
+#entry
+    #values moisten, moistening, moistened, moistens, moistener, moistened, moisturization
+#entry
+    #values flick, flicking, flicked, flicks, flicker, flicked, flicking
+#entry
+    #values scorch, scorching, scorched, scorches, scorcher, scorched, scorching
+#entry
+    #values scold, scolding, scolded, scolds, scolder, scolded, scolding
+#entry
+    #values punish, punishing, punished, punishes, punisher, punished, punishment
+#entry
+    #values handle, handling, handled, handles, handler, handled, handling
+#entry
+    #values finger, fingering, fingered, fingers, fingerer, fingered, fingering
+#entry
+    #values manipulate, manipulating, manipulated, manipulates, manipulator, manipulated, manipulation
+#entry
+    #values exploit, exploiting, exploited, exploits, exploiter, exploited, exploitation
+#entry
+    #values misuse, misusing, misused, misuses, misuser, misused, misuse
+#entry
+    #values breastfeed, breastfeeding, breastfed, breastfeeds, breastfeeder, breastfed, breastfeeding
+#entry
+    #values pillage, pillaging, pillaged, pillages, pillager, pillaged, pillaging
+#entry
+    #values eliminate, eliminating, eliminated, eliminates, eliminater, eliminated, elimination
+#entry
+    #values waste, wasting, wasted, wastes, waster, wasted, wasting
+#entry
+    #values grind, grinding, grinded, grinds, grinder, ground, grinding
+#entry
+    #values fight, fighting, fought, fights, fighter, fighted, fighting
+#entry
+    #values stuff, stuffing, stuffed, stuffs, stuffer, stuffed, stuffing
+#entry
+    #values fume, fuming, fumed, fumes, fumer, fumed, fuming
+#entry
+    #values stand, standing, stood, stands, stander, stood, standing
+    #classes pose
+#entry
+    #values sit, sitting, sat, sits, sitter, sat, sitting
+    #classes pose
+#entry
+    #values lay, laying, laid, lays, layer, laid, laying
+    #classes pose
+#entry
+    #values crouch, crouching, crouched, crouches, croucher, crouched, crouching
+    #classes pose
+#entry
+    #values squat, squatting, squatted, squats, squatter, squatted, squatting
+    #classes pose
+#entry
+    #values slurp, slurping, slurped, slurps, slurper, slurped, slurping
+    #classes eat
+#entry
+    #values lick, licking, licked, licks, licker, licked, licking
+    #classes eat
+#entry
+    #values snort, snorting, snorted, snorts, snorter, snorted, snorting
+    #classes eat
+#entry
+    #values eat, eating, ate, eats, eater, eaten, eating
+    #classes eat
+#entry
+    #values suck, sucking, sucked, sucks, sucker, sucked, sucking
+    #classes eat
+#entry
+    #values snuffle, snuffling, snuffled, snuffles, snuffler, snuffled, snuffling
+    #classes eat
+#entry
+    #values guzzle, guzzling, guzzled, guzzles, guzzler, guzzled, guzzling
+    #classes eat
+#entry
+    #values sniff, sniffing, sniffed, sniffs, sniffer, sniffed, sniffing
+    #classes eat
+#entry
+    #values nibble, nibbling, nibbled, nibbles, nibbler, nibbled, nibbling
+    #classes eat
+#entry
+    #values defecate, defecating, defecated, defecates, defecator, defecated, defecation
+    #classes liquid
+#entry
+    #values spurt, spurting, spurted, spurts, spurter, spurted, spurting
+    #classes liquid
+#entry
+    #values smear, smearing, smeared, smears, smearer, smeared, smearing
+    #classes liquid
+#entry
+    #values paint, painting, painted, paints, painter, painted, painting
+    #classes liquid
+#entry
+    #values shower, showering, showered, showers, showerer, showered, showering
+    #classes liquid
+#entry
+    #values sputter, sputtering, sputtered, sputters, sputterer, sputtered, sputtering
+    #classes liquid
+#entry
+    #values drain, draining, drained, drains, drainer, drained, draining
+    #classes liquid
+#entry
+    #values smatter, smattering, smattered, smatters, smatterer, smattered, smattering
+    #classes liquid
+#entry
+    #values urinate, urinating, urinated, urinates, urinator, urinated, urination
+    #classes liquid
+#entry
+    #values splatter, splattering, splattered, splatters, splatterer, splattered, splattering
+    #classes liquid
+#entry
+    #values spray, spraying, sprayed, sprays, sprayer, sprayed, spraying
+    #classes liquid
+#entry
+    #values jet-spray, jet-spraying, jet-sprayed, jet-sprays, jet-sprayer, jet-sprayed, jet-spraying
+    #classes liquid
+#entry
+    #values squirt, squirting, squirted, squirts, squirter, squirted, squirting
+    #classes liquid
+#entry
+    #values sprinkle, sprinkling, sprinkled, sprinkles, sprinkler, sprinkled, sprinkling
+    #classes liquid
+#entry
+    #values drip, dripping, dripped, drips, dripper, dripped, dripping
+    #classes liquid
+#entry
+    #values piss, pissing, pissed, pisses, pisser, pissed, pissing
+    #classes liquid
+#entry
+    #values pour, pouring, poured, pours, pourer, poured, pouring
+    #classes liquid
+#entry
+    #values splash, splashing, splashed, splashes, splasher, splashed, splashing
+    #classes liquid
+#entry
+    #values tremble, trembling, trembled, trembles, trembler, trembled, trembling
+    #classes motion
+#entry
+    #values waddle, waddling, waddled, woddles, woddler, waddled, waddling
+    #classes motion
+#entry
+    #values wiggle, wiggling, wiggled, wiggles, wiggler, wiggled, wiggling
+    #classes motion
+#entry
+    #values slam, slamming, slammed, slams, slammer, slammed, slamming
+    #classes motion
+#entry
+    #values kick, kicking, kicked, kicks, kicker, kicked, kicking
+    #classes motion
+#entry
+    #values smack, smacking, smacked, smacks, smacker, smacked, smacking
+    #classes motion
+#entry
+    #values stomp, stomping, stomped, stomps, stomper, stomped, stomping
+    #classes motion
+#entry
+    #values shoot, shooting, shot, shoots, shooter, shot, shooting
+    #classes motion
+#entry
+    #values screw, screwing, screwed, screws, screwer, screwed, screwing
+    #classes motion
+#entry
+    #values pump, pumping, pumped, pumps, pumper, pumped, pumping
+    #classes motion
+#entry
+    #values hack, hacking, hacked, hacks, hacker, hacked, hacking
+    #classes motion
+#entry
+    #values poke, poking, poked, pokes, poker, poked, poking
+    #classes motion
+#entry
+    #values crank, cranking, cranked, cranks, cranker, cranked, cranking
+    #classes motion
+#entry
+    #values serve, serving, served, serves, server, served, serving
+    #classes motion
+#entry
+    #values force, forcing, forced, forces, forcer, forced, forcing
+    #classes motion
+#entry
+    #values stick, sticking, stuck, sticks, sticker, stuck, sticking
+    #classes motion
+#entry
+    #values move, moving, moved, moves, mover, moved, moving
+    #classes motion
+#entry
+    #values bind, binding, bound, binds, binder, bound, binding
+    #classes motion
+#entry
+    #values staple, stapling, stapled, staples, stapler, stapled, stapling
+    #classes motion
+#entry
+    #values eject, ejecting, ejected, ejects, ejector, ejected, ejection
+    #classes motion
+#entry
+    #values crunch, crunching, crunched, crunches, cruncher, crunched, crunching
+    #classes motion
+#entry
+    #values squish, squishing, squished, squishes, squisher, squished, squishing
+    #classes motion
+#entry
+    #values prod, prodding, prodded, prods, prodder, prodded, prodding
+    #classes motion
+#entry
+    #values wedge, wedging, wedged, wedges, wedger, wedged, wedging
+    #classes motion
+#entry
+    #values blow, blowing, blew, blows, blower, blown, blowing
+    #classes motion
+#entry
+    #values knead, kneading, kneaded, kneads, kneader, kneaded, kneading
+    #classes motion
+#entry
+    #values twist, twisting, twisted, twists, twister, twisted, twisting
+    #classes motion
+#entry
+    #values throw, throwing, threw, throws, thrower, thrown, throwing
+    #classes motion
+#entry
+    #values fly, flying, flew, flies, flier, flown, flying
+    #classes motion
+#entry
+    #values shake, shaking, shook, shakes, shaker, shaken, shaking
+    #classes motion
+#entry
+    #values bang, banging, banged, bangs, banger, banged, banging
+    #classes motion
+#entry
+    #values press, pressing, pressed, presses, presser, pressed, pressing
+    #classes motion
+#entry
+    #values inject, injecting, injected, injects, injector, injected, injection
+    #classes motion
+#entry
+    #values slip, slipping, slipped, slips, slipper, slipped, slipping
+    #classes motion
+#entry
+    #values rip, ripping, ripped, rips, ripper, ripped, ripping
+    #classes motion
+#entry
+    #values joust, jousting, jousted, jousts, jouster, jousted, jousting
+    #classes walk
+#entry
+    #values slouch, slouching, slouched, slouches, sloucher, slouched, slouching
+    #classes walk
+#entry
+    #values walk, walking, walked, walks, walker, walked, walking
+    #classes walk
+#entry
+    #values skip, skipping, skipped, skips, skipper, skipped, skipping
+    #classes walk
+#entry
+    #values march, marching, marched, marches, marcher, marched, marching
+    #classes walk
+#entry
+    #values run, running, ran, runs, runner, run, running
+    #classes walk
+#entry
+    #values stampede, stampeding, stampeded, stampedes, stampeder, stampeded, stampeding
+    #classes walk
+#entry
+    #values strut, strutting, strutted, struts, strutter, strutted, strutting
+    #classes walk
+#entry
+    #values tiptoe, tiptoeing, tiptoed, tiptoes, tiptoer, tiptoed, tiptoeing
+    #classes walk
+#entry
+    #values sprint, sprinting, sprinted, sprints, sprinter, sprinted, sprinting
+    #classes walk
+#entry
+    #values gallop, galloping, galloped, gallops, galloper, galloped, galloping
+    #classes walk
+#entry
+    #values crawl, crawling, crawled, crawls, crawler, crawled, crawling
+    #classes walk
+#entry
+    #values trot, trotting, trotted, trots, trotter, trotted, trotting
+    #classes walk
+#entry
+    #values pluck, plucking, plucked, plucks, plucker, plucked, plucking
+    #classes violent
+#entry
+    #values bite, biting, bit, bites, biter, bitten, biting
+    #classes violent
+#entry
+    #values fart, farting, farted, farts, farter, farted, farting
+    #classes violent
+#entry
+    #values manhandle, manhandling, manhandled, manhandles, manhandler, manhandled, manhandling
+    #classes violent
+#entry
+    #values maul, mauling, mauled, mauls, mauler, mauled, mauling
+    #classes violent
+#entry
+    #values whip, whipping, whipped, whips, whipper, whipped, whipping
+    #classes violent
+#entry
+    #values dominate, dominating, dominated, dominates, dominator, dominated, domination
+    #classes violent
+#entry
+    #values punch, punching, punched, punches, puncher, punched, punching
+    #classes violent
+#entry
+    #values headbutt, headbutting, headbutted, headbutts, headbutter, headbutted, headbutting
+    #classes violent
+#entry
+    #values impale, impaling, impaled, impales, impaler, impaled, impalement
+    #classes violent
+#entry
+    #values scratch, scratching, scratched, scratches, scratcher, scratched, scratching
+    #classes violent
+#entry
+    #values grab, grabbing, grabbed, grabs, grabber, grabbed, grabbing
+    #classes violent
+#entry
+    #values snip, snipping, snipped, snips, snipper, snipped, snipping
+    #classes violent
+#entry
+    #values shatter, shattering, shattered, shatters, shatterer, shattered, shattering
+    #classes violent
+#entry
+    #values slap, slapping, slapped, slaps, slapper, slapped, slapping
+    #classes violent
+#entry
+    #values tickle, tickling, tickled, tickles, tickler, tickled, tickling
+    #classes violent
+#entry
+    #values stab, stabbing, stabbed, stabs, stabber, stabbed, stabbing
+    #classes violent
+#entry
+    #values strangle, strangling, strangled, strangles, strangler, strangled, strangulation
+    #classes violent
+#entry
+    #values decapitate, decapitating, decapitated, decapitates, decapitater, decapitated, decapitation
+    #classes violent
+#entry
+    #values behead, beheading, beheaded, beheads, beheader, beheaded, beheading
+    #classes violent
+#entry
+    #values dangle, dangling, dangled, dangles, dangler, dangled, dangling
+    #classes violent
+#entry
+    #values hang, hanging, hung, hangs, hanger, hanged, hanging
+    #classes violent
+#entry
+    #values gouge, gouging, gouged, gouges, gouger, gouged, gouging
+    #classes violent
+#entry
+    #values electrocute, electrocuting, electrocuted, electrocutes, electrocuter, electrocuted, electrocution
+    #classes violent
+#entry
+    #values slash, slashing, slashed, slashes, slasher, slashed, slashing
+    #classes violent
+#entry
+    #values hammer, hammering, hammered, hammers, hammerer, hammered, hammering
+    #classes violent
+#entry
+    #values bludgeon, bludgeoning, bludgeoned, bludgeons, bludgeoner, bludgeoned, bludgeoning
+    #classes violent
+#entry
+    #values pierce, piercing, pierced, pierces, piercer, pierced, piercing
+    #classes violent
+#entry
+    #values skewer, skewering, skewered, skewers, skewerer, skewered, skewering
+    #classes violent
+#entry
+    #values spank, spanking, spanked, spanks, spanker, spanked, spanking
+    #classes violent
+#entry
+    #values vomit, vomiting, vomited, vomits, vomiter, vomited, vomiting
+    #classes violent
+#entry
+    #values pinch, pinching, pinched, pinches, pincher, pinched, pinching
+    #classes violent
+#entry
+    #values shove, shoving, shoved, shoves, shover, shoved, shoving
+    #classes violent
+#entry
+    #values amputate, amputating, amputated, amputates, amputator, amputated, amputation
+    #classes violent
+#entry
+    #values throttle, throttling, throttled, throttles, throttler, throttled, throttling
+    #classes violent
+#entry
+    #values implode, imploding, imploded, implodes, imploder, imploded, implosion
+    #classes violent
+#entry
+    #values explode, exploding, exploded, explodes, exploder, exploded, explosion
+    #classes violent
+#entry
+    #values grope, groping, groped, gropes, groper, groped, groping
+    #classes violent
+#entry
+    #values twerk, twerking, twerked, twerks, twerker, twerked, twerking
+    #classes motion
+#entry
+    #values twang, twanging, twanged, twangs, twanger, twanged, twanging
+    #classes motion
+#entry
+    #values veto, vetoing, vetoed, vetoes, vetoer, vetoed, vetoing
+    #classes political
+#entry
+    #values elect, electing, elected, elects, electer, elected, election
+    #classes political
+#entry
+    #values ratify, ratifying, ratified, ratifies, ratifier, ratified, ratification
+    #classes political
+#entry
+    #values amend, amending, amended, amends, amender, amended, amendment
+    #classes political
+#entry
+    #values impeach, impeaching, impeached, impeaches, impeacher, impeached, impeachment
+    #classes political
+#entry
+    #values inaugurate, inaugurating, inaugurated, inaugurates, inaugurater, inaugurated, inauguration
+    #classes political
+#entry
+    #values petition, petitioning, petitioned, petitions, petitioner, petitioned, petitioning
+#entry
+    #values cremate, cremating, cremated, cremates, cremater, cremated, cremation
+    #classes violent
+#entry
+    #values sue, suing, sued, sues, suer, sued, suing
+    #classes legal
+#entry
+    #values prosecute, prosecuting, prosecuted, prosecutes, prosecuter, prosecuted, prosecution
+    #classes legal
+#entry
+    #values convict, convicting, convicted, convicts, convicter, convicted, conviction
+    #classes legal
+#entry
+    #values legalize, legalizing, legalized, legalizes, legalizer, legalized, legalization
+    #classes legal
+#entry
+    #values bathe, bathing, bathed, bathes, bather, bathed, bathing
+#entry
+    #values sleepwalk, sleepwalking, sleepwalked, sleepwalks, sleepwalker, sleepwalked, sleepwalking
+    #classes walk
+#entry
+    #values abduct, abducting, abducted, abducts, abductor, abducted, abduction
+#entry
+    #values abolish, abolishing, abolished, abolishes, abolisher, abolished, abolishment
+#entry
+    #values apprehend, apprehending, apprehended, apprehends, apprehender, apprehended, apprehension
+#entry
+    #values assault, assaulting, assaulted, assaults, assaulter, assaulted, assault
+    #classes violent
+#entry
+    #values attack, attacking, attacked, attacks, attacker, attacked, attack
+    #classes violent
+#entry
+    #values authenticate, authenticating, authenticated, authenticates, authenticator, authenticated, authentication
+#entry
+    #values choke, choking, choked, chokes, choker, choked, choking
+#entry
+    #values commandeer, commandeering, commandeered, commandeers, commandeerer, commandeered, commandeering
+#entry
+    #values conserve, conserving, conserved, conserves, conserver, conserved, conservation
+#entry
+    #values crash, crashing, crashed, crashes, crasher, crashed, crashing
+#entry
+    #values cram, cramming, crammed, crams, crammer, crammed, cramming
+    #classes motion
+#entry
+    #values cripple, crippling, crippled, cripples, crippler, crippled, crippling
+    #classes violent
+#entry
+    #values customize, customizing, customized, customizes, customizer, customized, customization
+#entry
+    #values decorate, decorating, decorated, decorates, decorator, decorated, decoration
+#entry
+    #values dissect, dissecting, dissected, dissects, dissector, dissected, dissection
+    #classes violent
+#entry
+    #values dramatize, dramatizing, dramatized, dramatizes, dramatizer, dramatized, dramatization
+#entry
+    #values feed, feeding, fed, feeds, feeder, fed, feeding
+#entry
+    #values forecast, forecasting, forecasted, forecasts, forecaster, forecasted, forecasting
+#entry
+    #values gnaw, gnawing, gnawed, gnaws, gnawer, gnawed, gnawing
+    #classes eat
+#entry
+    #values gyrate, gyrating, gyrated, gyrates, gyrator, gyrated, gyration
+    #classes motion, move
+#entry
+    #values harass, harassing, harassed, harasses, harasser, harassed, harassment
+    #classes violent
+#entry
+    #values hoist, hostng, hoisted, hoists, hoister, hoisted, hoisting
+#entry
+    #values hurl, hurling, hurled, hurls, hurler, hurled, hurling
+    #classes motion
+#entry
+    #values injure, injuring, injured, injures, injurer, injured, injury
+    #classes violent
+#entry
+    #values jingle, jingling, jingled, jingles, jingler, jingled, jingling
+#entry
+    #values jimmy, jimmying, jimmied, jimmies, jimmier, jimmied, jimmying
+#entry
+    #values kidnap, kidnapping, kidnapped, kidnaps, kidnapper, kidnapped, kidnapping
+    #classes violent
+#entry
+    #values lecture, lecturing, lectured, lectures, lecturer, lectured, lecturing
+#entry
+    #values lunge, lunging, lunged, lunges, lunger, lunged, lunging
+    #classes motion, move
+#entry
+    #values jump, jumping, jumped, jumps, jumper, jumped, jumping
+    #classes motion, move
+#entry
+    #values mangle, mangling, mangled, mangles, mangler, mangled, mangling
+    #classes violent
+#entry
+    #values maim, maiming, maimed, maims, maimer, maimed, maiming
+    #classes violent
+#entry
+    #values mutilate, mutilating, mutilated, mutilates, mutilater, mutilated, mutilation
+    #classes violent
+#entry
+    #values nab, nabbing, nabbed, nabs, nabber, nabbed, nabbing
+    #classes violent
+#entry
+    #values nail, nailing, nailed, nails, nailer, nailed, nailing
+    #classes violent
+#entry
+    #values nip, nipping, nipped, nips, nipper, nipped, nipping
+    #classes eat, violent
+#entry
+    #values preen, preening, preened, preens, preener, preened, preening
+#entry
+    #values ride, riding, rode, rides, rider, ridden, riding
+#entry
+    #values rob, robbing, robbed, robs, robber, robbed, robbery
+    #classes violent
+#entry
+    #values sharpen, sharpening, sharpened, sharpens, sharpener, sharpened, sharpening
+#entry
+    #values snuggle, snuggling, snuggled, snuggles, snuggler, snuggled, snuggling
+#entry
+    #values gush, gushing, gushed, gushes, gusher, gushed, gushing
+    #classes liquid
+#entry
+    #values puke, puking, puked, pukes, puker, puked, puking
+    #classes liquid
+#entry
+    #values donate, donating, donated, donates, donater, donated, donation

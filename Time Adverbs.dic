@@ -1,0 +1,173 @@
+#name t
+#one
+#entry
+    #values at sunrise
+    #classes time
+#entry
+    #values 1 month ago
+    #classes time
+#entry
+    #values 1 week ago
+    #classes time
+#entry
+    #values 1 day ago
+    #classes time
+#entry
+    #values 1 hour ago
+    #classes time
+#entry
+    #values 1 year ago
+    #classes time
+#entry
+    #values millions of years ago
+    #classes time
+#entry
+    #values billions of years ago
+    #classes time
+#entry
+    #values trillions of years ago
+    #classes time
+#entry
+    #values today
+    #classes time
+#entry
+    #values just 5 minutes ago
+    #classes time
+#entry
+    #values 5 minutes later
+    #classes time
+#entry
+    #values 1 hour later
+    #classes time
+#entry
+    #values 1 day later
+    #classes time
+#entry
+    #values 1 week later
+    #classes time
+#entry
+    #values 1 month later
+    #classes time
+#entry
+    #values 6 months later
+    #classes time
+#entry
+    #values a year later
+    #classes time
+#entry
+    #values 5 years later
+    #classes time
+#entry
+    #values 10 years later
+    #classes time
+#entry
+    #values at the full moon
+    #classes time
+#entry
+    #values at sunset
+    #classes time
+#entry
+    #values later
+    #classes time
+#entry
+    #values recently
+    #classes time
+#entry
+    #values once again
+    #classes frequency
+#entry
+    #values never again
+    #classes frequency
+#entry
+    #values instantly
+    #classes frequency
+#entry
+    #values usually
+    #classes frequency
+#entry
+    #values yesterday
+    #classes frequency
+#entry
+    #values sometimes
+    #classes frequency
+#entry
+    #values occasionally
+    #classes frequency
+#entry
+    #values often
+    #classes frequency
+#entry
+    #values once in a while
+    #classes frequency
+#entry
+    #values never
+    #classes frequency
+#entry
+    #values frequently
+    #classes frequency
+#entry
+    #values once a week
+    #classes frequency
+#entry
+    #values daily
+    #classes frequency
+#entry
+    #values once a month
+    #classes frequency
+#entry
+    #values again
+    #classes frequency
+#entry
+    #values repeatedly
+    #classes frequency
+#entry
+    #values all the time
+    #classes frequency
+#entry
+    #values hardly
+    #classes frequency
+#entry
+    #values barely
+    #classes frequency
+#entry
+    #values several times
+    #classes frequency
+#entry
+    #values every night
+    #classes frequency
+#entry
+    #values this time
+    #classes frequency
+#entry
+    #values biweekly
+    #classes frequency
+#entry
+    #values centenially
+    #classes frequency
+#entry
+    #values every now and then
+    #classes frequency
+#entry
+    #values from now on
+    #classes frequency
+#entry
+    #values until further notice
+    #classes frequency
+#entry
+    #values for 10 weeks
+    #classes frequency
+#entry
+    #values for 36 hours
+    #classes frequency
+#entry
+    #values on Mondays
+    #classes frequency
+#entry
+    #values every Tuesday
+    #classes frequency
+#entry
+    #values profusely
+    #classes frequency
+#entry
+    #values perpetually
+    #classes frequency

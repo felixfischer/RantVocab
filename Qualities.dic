@@ -1,0 +1,53 @@
+#name quality
+#subtypes property more less est
+#entry
+    #values speed, faster, slower, fastest
+    #classes physical
+#entry
+    #values size, bigger, smaller, biggest
+    #classes physical
+#entry
+    #values wetness, wetter, drier, wettest
+    #classes physical
+#entry
+    #values force, harder, softer, hardest
+    #classes physical
+#entry
+    #values weight, heavier, lighter, heaviest
+    #classes physical
+#entry
+    #values color, more colorful, duller, most colorful
+    #classes physical
+#entry
+    #values luminosity, brighter, darker, brightest
+    #classes physical
+#entry
+    #values power level, more powerful, weaker, most powerful
+    #classes physical
+#entry
+    #values height, taller, shorter, tallest
+    #classes physical
+#entry
+    #values length, longer, shorter, longest
+    #classes physical
+#entry
+    #values width, wider, skinnier, widest
+    #classes physical
+#entry
+    #values girth, girthier, less girthy, girthiest
+    #classes physical
+#entry
+    #values race, racier, less racier, raciest
+    #classes human
+#entry
+    #values age, older, younger, oldest
+    #classes human
+#entry
+    #values gender, sexier, more gender neutral, sexiest
+    #classes human
+#entry
+    #values ethnicity, more ethnic, less ethnic, most ethnic
+    #classes human
+#entry
+    #values honesty, more thuthful, less truthful, most truthful
+    #classes human

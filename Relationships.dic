@@ -1,0 +1,104 @@
+#name r
+#subtypes singular plural
+#entry
+    #values brother, brothers
+    #classes male
+#entry
+    #values father, fathers
+    #classes male
+#entry
+    #values grandpa, grandpas
+    #classes male
+#entry
+    #values uncle, uncles
+    #classes male
+#entry
+    #values boyfriend, boyfriends
+    #classes male
+#entry
+    #values husband, husbands
+    #classes male
+#entry
+    #values stepfather, stepfathers
+    #classes male
+#entry
+    #values godfather, godfathers
+    #classes male
+#entry
+    #values son, sons
+    #classes male
+#entry
+    #values grandson, grandsons
+    #classes male
+#entry
+    #values boy, boys
+    #classes male
+#entry
+    #values man, men
+    #classes male
+#entry
+    #values mommy, mommies
+    #classes female
+#entry
+    #values daddy, daddies
+    #classes female
+#entry
+    #values sister, sisters
+    #classes female
+#entry
+    #values mother, mothers
+    #classes female
+#entry
+    #values grandma, grandmas
+    #classes female
+#entry
+    #values stepmother, stepmothers
+    #classes female
+#entry
+    #values aunt, aunts
+    #classes female
+#entry
+    #values girlfriend, girlfriends
+    #classes female
+#entry
+    #values wife, wives
+    #classes female
+#entry
+    #values daughter, daughters
+    #classes female
+#entry
+    #values granddaughter, granddaughters
+    #classes female
+#entry
+    #values girl, girls
+    #classes female
+#entry
+    #values woman, women
+    #classes female
+#entry
+    #values friend, friends
+    #classes neutral
+#entry
+    #values cousin, cousins
+    #classes neutral
+#entry
+    #values colleague, colleagues
+    #classes neutral
+#entry
+    #values boss, bosses
+    #classes neutral
+#entry
+    #values master, masters
+    #classes neutral
+#entry
+    #values buddy, buddies
+    #classes neutral
+#entry
+    #values child, children
+    #classes neutral
+#entry
+    #values baby, babies
+    #classes neutral
+#entry
+    #values fella, fellas
+    #classes neutral

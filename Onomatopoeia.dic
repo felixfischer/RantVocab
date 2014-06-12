@@ -1,0 +1,58 @@
+#name N
+#subtypes singular plural
+#entry
+    #values bang, bangs
+#entry
+    #values squelch, squelches
+#entry
+    #values squeal, squeals
+#entry
+    #values boom, booms
+#entry
+    #values beep, beeps
+#entry
+    #values crash, crashes
+#entry
+    #values wail, wails
+#entry
+    #values roar, roars
+#entry
+    #values shatter, shatters
+#entry
+    #values pop, pops
+#entry
+    #values note, notes
+#entry
+    #values thump, thumps
+#entry
+    #values rumble, rumbles
+#entry
+    #values scrape, scrapes
+#entry
+    #values screech, screeches
+#entry
+    #values flap, flaps
+#entry
+    #values flutter, flutters
+#entry
+    #values swoosh, swooshes
+#entry
+    #values pound, pounds
+#entry
+    #values slap, slaps
+#entry
+    #values clang, clangs
+#entry
+    #values toot, toots
+#entry
+    #values tick, ticks
+#entry
+    #values foom, fooms
+#entry
+    #values rap, raps
+#entry
+    #values tap, taps
+#entry
+    #values shudder, shudders
+#entry
+    #values crack, cracks

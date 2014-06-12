@@ -1,0 +1,1396 @@
+#name adj
+#subtypes normal ness
+#entry
+    #values sensible, sensibility
+#entry
+    #values headless, headlessness
+#entry
+    #values charitable, charitability
+#entry
+    #values sociopathic, sociopathicness
+#entry
+    #values ergonomic, ergonomicness
+#entry
+    #values organic, organicness
+#entry
+    #values regal, regalness
+#entry
+    #values constitutional, constitutionalness
+#entry
+    #values unconstitutional, unconstitutionalness
+#entry
+    #values all-natural, all-naturalness
+#entry
+    #values whole-grain, whole-graininess
+#entry
+    #values Victorian, Victorianness
+#entry
+    #values rustic, rusticness
+#entry
+    #values luxurious, luxuriousness
+#entry
+    #values invigorating, invigoratingness
+#entry
+    #values tangy, tanginess
+#entry
+    #values jazzy, jazziness
+#entry
+    #values retro, retroness
+#entry
+    #values ductile, ductileness
+#entry
+    #values old-fashioned, old-fashionedness
+#entry
+    #values flexible, flexibility
+#entry
+    #values tender, tenderness
+#entry
+    #values fabulous, fabulousness
+#entry
+    #values fatherly, fatherliness
+#entry
+    #values toasty, toastiness
+#entry
+    #values mellow, mellowness
+#entry
+    #values historical, historicalness
+#entry
+    #values fragrant, fragrance
+#entry
+    #values superfluous, superfluousness
+#entry
+    #values squishy, squishiness
+#entry
+    #values flappy, flappiness
+#entry
+    #values slippy, slippiness
+#entry
+    #values Confederate, Confederateness
+#entry
+    #values slow, slowness
+#entry
+    #values messy, messiness
+#entry
+    #values holy, holiness
+#entry
+    #values organized, organization
+#entry
+    #values nifty, niftiness
+#entry
+    #values athletic, athleticness
+#entry
+    #values juvenile, juvenileness
+#entry
+    #values gallant, gallantness
+#entry
+    #values corny, corniness
+#entry
+    #values groovy, grooviness
+#entry
+    #values weightless, weightlessness
+#entry
+    #values rough, roughness
+#entry
+    #values gourmet, gourmetness
+#entry
+    #values deluxe, deluxeness
+#entry
+    #values wholesome, wholesomeness
+#entry
+    #values sweaty, sweatiness
+    #classes appearance
+#entry
+    #values soapy, soapiness
+    #classes appearance
+#entry
+    #values buttery, butteriness
+#entry
+    #values religious, religiousness
+#entry
+    #values righteous, righteousness
+#entry
+    #values patriotic, patrioticness
+#entry
+    #values spine-tingling, tingliness
+#entry
+    #values waddly, waddliness
+#entry
+    #values wobbly, wobbliness
+#entry
+    #values traditional, tradition
+#entry
+    #values appetizing, appetizingness
+#entry
+    #values strict, strictness
+#entry
+    #values dreadful, dreadfulness
+#entry
+    #values mythical, mythicalness
+#entry
+    #values philosophical, philosophy
+#entry
+    #values enticing, enticingness
+#entry
+    #values offensive, offensiveness
+#entry
+    #values luscious, lusciousness
+#entry
+    #values bouncy, bounciness
+#entry
+    #values plentiful, plentifulness
+#entry
+    #values major-league, major-leagueness
+#entry
+    #values significant, significance
+#entry
+    #values expressive, expression
+#entry
+    #values cuddly, cuddliness
+#entry
+    #values nude, nudity
+    #classes appearance
+#entry
+    #values political, politicalness
+#entry
+    #values creative, creativity
+#entry
+    #values sinful, sin
+#entry
+    #values glorious, gloriousness
+#entry
+    #values merciful, mercy
+#entry
+    #values forgiving, forgiveness
+#entry
+    #values smart, smartness
+#entry
+    #values salty, saltiness
+#entry
+    #values peppery, pepperiness
+#entry
+    #values slurpee, slurpiness
+#entry
+    #values criminal, criminality
+#entry
+    #values domestic, domesticness
+#entry
+    #values meaningful, meaning
+#entry
+    #values manly, manliness
+#entry
+    #values barbeque, barbequeness
+#entry
+    #values casual, casualness
+#entry
+    #values standard, standardness
+#entry
+    #values nasty, nastiness
+#entry
+    #values exquisite, exquisiteness
+#entry
+    #values bold, boldness
+#entry
+    #values proper, properness
+#entry
+    #values fresh, freshness
+#entry
+    #values informative, informativeness
+#entry
+    #values jiggly, jiggliness
+#entry
+    #values rebellious, rebelliousness
+#entry
+    #values direful, direfulness
+#entry
+    #values soothing, soothingness
+#entry
+    #values disloyal, disloyalty
+#entry
+    #values loyal, loyalty
+#entry
+    #values victorious, victory
+#entry
+    #values deep, depth
+#entry
+    #values zen, zenness
+#entry
+    #values royal, royalty
+#entry
+    #values delightful, delightfulness
+#entry
+    #values yummy, yumminess
+#entry
+    #values refreshing, refreshingness
+#entry
+    #values pleasurable, pleasurability
+#entry
+    #values delectable, delectableness
+#entry
+    #values intense, intensity
+#entry
+    #values ghetto, ghettoness
+#entry
+    #values strange, strangeness
+#entry
+    #values odd, oddness
+#entry
+    #values wasted, wastedness
+#entry
+    #values eccentric, eccentricity
+#entry
+    #values satisfactory, satisfaction
+#entry
+    #values pharmaceutical, pharmaceuticalness
+#entry
+    #values fishy, fishiness
+#entry
+    #values jelly-belly, jelly-bellyness
+#entry
+    #values exotic, exoticness
+#entry
+    #values queer, queerness
+#entry
+    #values outlandish, outlandishness
+#entry
+    #values alien, alienness
+#entry
+    #values seductive, seductiveness
+#entry
+    #values superb, superbness
+#entry
+    #values divine, divinity
+#entry
+    #values celestial, celestial power
+#entry
+    #values vibrating, vibration
+#entry
+    #values wet, moisture
+    #classes appearance
+#entry
+    #values silly, silliness
+#entry
+    #values spidery, spideriness
+#entry
+    #values legitimate, legitimacy
+#entry
+    #values flavorful, flavor
+#entry
+    #values savory, flavor
+#entry
+    #values silky, silkiness
+#entry
+    #values slammin', worth
+#entry
+    #values slimy, sliminess
+#entry
+    #values impressive, impressiveness
+#entry
+    #values appealing, appeal
+#entry
+    #values revolting, revoltingness
+#entry
+    #values captivating, captivation
+#entry
+    #values amazing, amazingness
+#entry
+    #values masculine, masculinity
+#entry
+    #values gelatinous, gelatinous goodness
+#entry
+    #values disjointed, disjointedness
+#entry
+    #values veiny, veininess
+    #classes appearance
+#entry
+    #values tropical, tropicalness
+#entry
+    #values rock-hard, rock-hardness
+#entry
+    #values steamy, steaminess
+#entry
+    #values lumpy, lumpiness
+#entry
+    #values swift, lightning speed
+#entry
+    #values long, longness
+#entry
+    #values large, largeness
+#entry
+    #values small, smallness
+#entry
+    #values frosty, frostiness
+#entry
+    #values glassy, glassiness
+#entry
+    #values hard, hardness
+#entry
+    #values formal, formality
+#entry
+    #values blue, blueness
+#entry
+    #values soft, softness
+#entry
+    #values moist, moistness
+#entry
+    #values smooth, smoothness
+#entry
+    #values torturous, torturousness
+#entry
+    #values well-used, thoroughness
+#entry
+    #values well-loved, sweet love
+#entry
+    #values shiny, shininess
+#entry
+    #values sleek, sleekness
+#entry
+    #values greasy, grasiness
+#entry
+    #values hairy, hairiness
+#entry
+    #values splintered, splinters
+#entry
+    #values dreamy, dreaminess
+#entry
+    #values spicy, spiciness
+#entry
+    #values terrible, terror
+#entry
+    #values throbbing, throbbing pleasure
+#entry
+    #values fluttering, light-weightedness
+#entry
+    #values mysterious, mystery
+#entry
+    #values velvety, velvety goodness
+#entry
+    #values dangerous, danger
+#entry
+    #values metallic, luster
+#entry
+    #values skinny, skininess
+#entry
+    #values fat, fatness
+#entry
+    #values painful, pain
+#entry
+    #values oozing, excretory wetness
+#entry
+    #values flaming, fire
+#entry
+    #values exploding, explosiveness
+#entry
+    #values wild, wildness
+#entry
+    #values rambunctious, wildness
+#entry
+    #values sizzling, fizzly shizzliness
+#entry
+    #values perfect, perfection
+#entry
+    #values raunchy, raunchiness
+#entry
+    #values sexy, sex appeal
+#entry
+    #values romantic, romance
+#entry
+    #values young, youth
+#entry
+    #values old, age
+#entry
+    #values bloodthirsty, bloodthirstiness
+#entry
+    #values fleshy, fleshiness
+#entry
+    #values warm, warmth
+#entry
+    #values cold, coldness
+#entry
+    #values icy, iciness
+#entry
+    #values electric, electricity
+#entry
+    #values sharp, sharpness
+#entry
+    #values deadly, deadliness
+#entry
+    #values pulsating, pumpiness
+#entry
+    #values bloody, bloodiness
+#entry
+    #values pregnant, pregnancy
+#entry
+    #values bulging, bulges
+#entry
+    #values stretchy, stretchiness
+#entry
+    #values creamy, creaminess
+#entry
+    #values lovely, loveliness
+#entry
+    #values grainy, graininess
+#entry
+    #values rocky, rockiness
+#entry
+    #values grassy, grassiness
+#entry
+    #values musical, music
+#entry
+    #values ravishing, rock-solid arousal
+#entry
+    #values outstanding, amazement
+#entry
+    #values identical, identity
+#entry
+    #values famous, fame
+#entry
+    #values cheerful, cheer
+#entry
+    #values livid, anger
+#entry
+    #values obstinate, stubbornness
+#entry
+    #values exhausted, fatigue
+#entry
+    #values graceful, grace
+#entry
+    #values outrageous, outrage
+#entry
+    #values radical, radishes
+#entry
+    #values childish, immaturity
+#entry
+    #values snobbish, snobbishness
+#entry
+    #values miserly, misery
+#entry
+    #values amiable, phallus
+#entry
+    #values disgusting, disgust
+#entry
+    #values awful, terror
+#entry
+    #values humorous, humor
+#entry
+    #values fanciful, fancy
+#entry
+    #values pathetic, lameness
+#entry
+    #values bashful, bashfulness
+#entry
+    #values freaky, freakiness
+#entry
+    #values chilly, chill
+#entry
+    #values stormy, storminess
+#entry
+    #values humid, humidity
+#entry
+    #values bountiful, bountifulness
+#entry
+    #values jubilant, happiness
+#entry
+    #values irritated, anger
+#entry
+    #values patient, patience
+#entry
+    #values dizzy, dizziness
+#entry
+    #values skeptical, skepticism
+#entry
+    #values puzzled, confusion
+#entry
+    #values light-hearted, light-heartedness
+#entry
+    #values perplexed, confusion
+#entry
+    #values over-whelmed, domination
+#entry
+    #values jovial, cheer
+#entry
+    #values hyper, energy
+#entry
+    #values squirrely, furriness
+#entry
+    #values jittery, jitteriness
+#entry
+    #values sensational, sensationalism
+#entry
+    #values elegant, elegance
+#entry
+    #values flabbergasted, confusion
+#entry
+    #values dreary, dreariness
+#entry
+    #values impish, impishness
+#entry
+    #values sneaky, sneakiness
+#entry
+    #values horrid, horridness
+#entry
+    #values monsterous, largeness
+#entry
+    #values acidic, acidity
+#entry
+    #values acoustic, loudness
+#entry
+    #values active, activity
+#entry
+    #values adaptable, adaptability
+#entry
+    #values aggressive, agressiveness
+#entry
+    #values additional, extra cheese
+#entry
+    #values adequate, adequacy
+#entry
+    #values administrative, domination
+#entry
+    #values advantageous, advantage
+#entry
+    #values advisable, wisdom
+#entry
+    #values extreme, extremity
+#entry
+    #values hardcore, hardcoreness
+#entry
+    #values snappy, snappiness
+#entry
+    #values scary, scariness
+#entry
+    #values immense, immensity
+#entry
+    #values woody, woodiness
+#entry
+    #values dominant, dominance
+#entry
+    #values submissive, submissiveness
+#entry
+    #values pitiful, pity
+#entry
+    #values sickening, sickness
+#entry
+    #values questionable, questionability
+#entry
+    #values intriguing, interest
+#entry
+    #values fantastic, fantasticness
+#entry
+    #values thrilling, thrill
+#entry
+    #values tactical, tacticalness
+#entry
+    #values drooling, sliminess
+#entry
+    #values epic, epicness
+#entry
+    #values succulant, deliciousness
+#entry
+    #values slick, slickness
+#entry
+    #values damp, dampness
+#entry
+    #values explosive, explosiveness
+#entry
+    #values flammable, flammability
+#entry
+    #values water-tight, virginity
+#entry
+    #values watery, wateriness
+#entry
+    #values heavy, heaviness
+#entry
+    #values disagreeable, disagreement
+#entry
+    #values keen, keenness
+#entry
+    #values fertile, fertility
+#entry
+    #values sterile, sterility
+#entry
+    #values distorted, distortion
+#entry
+    #values itchy, itchiness
+#entry
+    #values fruity, fruitiness
+#entry
+    #values hazardous, hazardousness
+#entry
+    #values troubling, trouble
+#entry
+    #values critical, criticalness
+#entry
+    #values treacherous, treachery
+#entry
+    #values speculative, speculation
+#entry
+    #values menacing, menace
+#entry
+    #values threatening, intimidation
+#entry
+    #values ticklish, ticklishness
+#entry
+    #values vulnerable, vulnerability
+#entry
+    #values wicked, wickedness
+#entry
+    #values formidable, formidableness
+#entry
+    #values brave, bravery
+#entry
+    #values supple, softness
+#entry
+    #values splendid, splendidness
+#entry
+    #values nutritious, nutrition
+#entry
+    #values melodic, melodicness
+#entry
+    #values infectious, infectiousness
+#entry
+    #values sticky, stickiness
+#entry
+    #values magnificent, magnificence
+#entry
+    #values fantastical, fantasticness
+#entry
+    #values incredible, incredibility
+#entry
+    #values unbelievable, falseness
+#entry
+    #values shocking, shock
+#entry
+    #values horrifying, horror
+#entry
+    #values unstable, instability
+#entry
+    #values funny, humorousness
+#entry
+    #values delicious, deliciousness
+#entry
+    #values tasty, tastiness
+#entry
+    #values finger-licking, finger-lickingness
+#entry
+    #values super, superness
+#entry
+    #values juicy, juiciness
+#entry
+    #values drippy, drippiness
+#entry
+    #values dripping, drippingness
+#entry
+    #values defiant, defiance
+#entry
+    #values resonant, resonance
+#entry
+    #values crackly, crackliness
+#entry
+    #values high-flying, aerodynamics
+#entry
+    #values wavy, waviness
+#entry
+    #values nutty, nuttiness
+#entry
+    #values insane, insanity
+#entry
+    #values unpleasant, unpleasant nature
+#entry
+    #values inadvisable, inadvisable nature
+#entry
+    #values pleasant, pleasant nature
+#entry
+    #values sandy, sandiness
+#entry
+    #values stinky, stinkiness
+#entry
+    #values dead, deadness
+#entry
+    #values honest, honesty
+#entry
+    #values trustworthy, trustworthiness
+#entry
+    #values profitable, proifitability
+#entry
+    #values essential, essentialness
+#entry
+    #values courageous, courage
+#entry
+    #values charming, charm
+#entry
+    #values beloved, belovedness
+#entry
+    #values marvelous, marvelousness
+#entry
+    #values breathtaking, breathtakingness
+#entry
+    #values surprising, surprise
+#entry
+    #values awesome, awesomeness
+#entry
+    #values zesty, zestiness
+#entry
+    #values astounding, astoundingness
+#entry
+    #values lubricated, lubrication
+#entry
+    #values stimulating, stimulus
+#entry
+    #values clever, cleverness
+#entry
+    #values magical, magic
+#entry
+    #values harmless, harmlessness
+#entry
+    #values gentle, gentleness
+#entry
+    #values raging, rage
+#entry
+    #values noisy, noisiness
+#entry
+    #values passionate, passion
+#entry
+    #values interracial, interracialness
+#entry
+    #values chrome-plated, chrome-platedness
+#entry
+    #values ripped, wear
+#entry
+    #values tattered, wear
+#entry
+    #values heinous, heinousness
+#entry
+    #values shady, shadiness
+    #classes appearance
+#entry
+    #values corrugated, corrugation
+    #classes appearance
+#entry
+    #values hulking, hulkingness
+    #classes appearance
+#entry
+    #values jagged, jaggedness
+    #classes appearance
+#entry
+    #values ratty, rattiness
+    #classes appearance
+#entry
+    #values stout, stoutness
+    #classes appearance
+#entry
+    #values whopping, whoppingness
+    #classes appearance
+#entry
+    #values humongous, humongousness
+    #classes appearance
+#entry
+    #values mammoth, mammothness
+    #classes appearance
+#entry
+    #values enormous, enormousness
+    #classes appearance
+#entry
+    #values colossal, colossality
+    #classes appearance
+#entry
+    #values monochromatic, monochromaticness
+    #classes appearance
+#entry
+    #values grimy, griminess
+    #classes appearance
+#entry
+    #values funny-looking, funny looks
+    #classes appearance
+#entry
+    #values gigantic, impressive size
+    #classes appearance
+#entry
+    #values limp, limpness
+    #classes appearance
+#entry
+    #values naked, nakedness
+    #classes appearance
+#entry
+    #values revealing, nakedness
+    #classes appearance
+#entry
+    #values pretty, prettiness
+    #classes appearance
+#entry
+    #values grey, greyness
+    #classes appearance
+#entry
+    #values microscopic, microscopicness
+    #classes appearance
+#entry
+    #values bearded, beardedness
+    #classes appearance
+#entry
+    #values floppy, floppiness
+    #classes appearance
+#entry
+    #values fluffy, fluffiness
+    #classes appearance
+#entry
+    #values dirty, dirt
+    #classes appearance
+#entry
+    #values petite, petiteness
+    #classes appearance
+#entry
+    #values sloppy, sloppiness
+    #classes appearance
+#entry
+    #values wide, wideness
+    #classes appearance
+#entry
+    #values slippery, slipperiness
+    #classes appearance
+#entry
+    #values sopping, wetness
+    #classes appearance
+#entry
+    #values slender, slenderness
+    #classes appearance
+#entry
+    #values dry, dryness
+    #classes appearance
+#entry
+    #values lickable, lickability
+    #classes appearance
+#entry
+    #values wooly, wooliness
+    #classes appearance
+#entry
+    #values colorful, color
+    #classes appearance
+#entry
+    #values mossy, mossiness
+    #classes appearance
+#entry
+    #values transparent, transparence
+    #classes appearance
+#entry
+    #values narrow, narrowness
+    #classes appearance
+#entry
+    #values glossy, glossiness
+    #classes appearance
+#entry
+    #values ancient, ancience
+    #classes appearance
+#entry
+    #values wrinkly, raisins
+    #classes appearance
+#entry
+    #values shriveled, raisins
+    #classes appearance
+#entry
+    #values plump, plumpness
+    #classes appearance
+#entry
+    #values green, greenness
+    #classes appearance
+#entry
+    #values brown, brownness
+    #classes appearance
+#entry
+    #values red, redness
+    #classes appearance
+#entry
+    #values white, whiteness
+    #classes appearance
+#entry
+    #values black, blackness
+    #classes appearance
+#entry
+    #values spiky, spikiness
+    #classes appearance
+#entry
+    #values thick, thickness
+    #classes appearance
+#entry
+    #values furry, furriness
+    #classes appearance
+#entry
+    #values fuzzy, fuzziness
+    #classes appearance
+#entry
+    #values wooden, woodness
+    #classes appearance
+#entry
+    #values bubbly, bubbliness
+    #classes appearance
+#entry
+    #values foamy, foaminess
+    #classes appearance
+#entry
+    #values smoky, smokiness
+    #classes appearance
+#entry
+    #values battered, batteredness
+    #classes appearance
+#entry
+    #values ugly, ugliness
+    #classes appearance
+#entry
+    #values glamourous, glamour
+    #classes appearance
+#entry
+    #values attractive, attractiveness
+    #classes appearance
+#entry
+    #values smoggy, smogginess
+    #classes appearance
+#entry
+    #values sparkling, sparkle
+    #classes appearance
+#entry
+    #values spotless, cleanliness
+    #classes appearance
+#entry
+    #values wide-eyed, wideness
+    #classes appearance
+#entry
+    #values cubic, cubic shape
+    #classes appearance
+#entry
+    #values symmetrical, symmetry
+    #classes appearance
+#entry
+    #values orbital, roundness
+    #classes appearance
+#entry
+    #values exposed, exposure
+    #classes appearance
+#entry
+    #values red-hot, glowing-red heat
+    #classes appearance
+#entry
+    #values bent, deformation
+    #classes appearance
+#entry
+    #values crooked, crookedness
+    #classes appearance
+#entry
+    #values uneven, unevenness
+    #classes appearance
+#entry
+    #values delicate, delicateness
+    #classes appearance
+#entry
+    #values moldy, moldiness
+    #classes appearance
+#entry
+    #values crusty, crustiness
+    #classes appearance
+#entry
+    #values filthy, filth
+    #classes appearance
+#entry
+    #values muscular, beefiness
+    #classes appearance
+#entry
+    #values glittery, glitter
+    #classes appearance
+#entry
+    #values purple, purpleness
+    #classes appearance
+#entry
+    #values ragged, raggedness
+    #classes appearance
+#entry
+    #values weedy, weediness
+    #classes appearance
+#entry
+    #values papery, paperiness
+    #classes appearance
+#entry
+    #values dazzling, sparkle
+    #classes appearance
+#entry
+    #values blinding, brightness
+    #classes appearance
+#entry
+    #values beautiful, beauty
+    #classes appearance
+#entry
+    #values windy, windiness
+    #classes appearance
+#entry
+    #values dusty, dustiness
+    #classes appearance
+#entry
+    #values short, shortness
+    #classes appearance
+#entry
+    #values tall, height
+    #classes appearance
+#entry
+    #values menthol, menthol goodness
+    #classes appearance
+#entry
+    #values Spanish, Spanish heritage
+    #classes nationality
+#entry
+    #values French, French heritage
+    #classes nationality
+#entry
+    #values German, German heritage
+    #classes nationality
+#entry
+    #values Italian, Italian heritage
+    #classes nationality
+#entry
+    #values Japanese, Japanese heritage
+    #classes nationality
+#entry
+    #values Chinese, Chinese heritage
+    #classes nationality
+#entry
+    #values Korean, Korean heritage
+    #classes nationality
+#entry
+    #values British, British heritage
+    #classes nationality
+#entry
+    #values African, African heritage
+    #classes nationality
+#entry
+    #values American, American heritage
+    #classes nationality
+#entry
+    #values Norwegian, Norwegian heritage
+    #classes nationality
+#entry
+    #values Russian, Russian heritage
+    #classes nationality
+#entry
+    #values Irish, Irish heritage
+    #classes nationality
+#entry
+    #values Mexican, Mexican heritage
+    #classes nationality
+#entry
+    #values Canadian, Canadian heritage
+    #classes nationality
+#entry
+    #values Australian, Australian heritage
+    #classes nationality
+#entry
+    #values severe, severity
+    #classes emotion
+#entry
+    #values sullen, sullenness
+    #classes emotion
+#entry
+    #values naughty, naughtiness
+    #classes emotion
+#entry
+    #values devilish, devilishness
+    #classes emotion
+#entry
+    #values arrogant, arrogance
+    #classes emotion
+#entry
+    #values indifferent, indifference
+    #classes emotion
+#entry
+    #values cranky, crankiness
+    #classes emotion
+#entry
+    #values bittersweet, bittersweetness
+    #classes emotion
+#entry
+    #values jealous, envy
+    #classes emotion
+#entry
+    #values thankful, thankfulness
+    #classes emotion
+#entry
+    #values groggy, grogginess
+    #classes emotion
+#entry
+    #values flirty, flirtiness
+    #classes emotion
+#entry
+    #values frightened, fright
+    #classes emotion
+#entry
+    #values evil, evil
+    #classes emotion
+#entry
+    #values cheeky, cheekiness
+    #classes emotion
+#entry
+    #values emo, emo-ness
+    #classes emotion
+#entry
+    #values gleeful, glee
+    #classes emotion
+#entry
+    #values joyful, joy
+    #classes emotion
+#entry
+    #values happy, happiness
+    #classes emotion
+#entry
+    #values bored, boredom
+    #classes emotion
+#entry
+    #values sorrowful, sorrow
+    #classes emotion
+#entry
+    #values sad, sadness
+    #classes emotion
+#entry
+    #values angry, anger
+    #classes emotion
+#entry
+    #values rageing, rage
+    #classes emotion
+#entry
+    #values guilty, guilt
+    #classes emotion
+#entry
+    #values envious, envy
+    #classes emotion
+#entry
+    #values blissful, bliss
+    #classes emotion
+#entry
+    #values interested, interest
+    #classes emotion
+#entry
+    #values smug, smugness
+    #classes emotion
+#entry
+    #values proud, pride
+    #classes emotion
+#entry
+    #values hungry, hunger
+    #classes emotion
+#entry
+    #values ashamed, shame
+    #classes emotion
+#entry
+    #values loving, love
+    #classes emotion
+#entry
+    #values mad, madness
+    #classes emotion
+#entry
+    #values hateful, hate
+    #classes emotion
+#entry
+    #values humiliated, humility
+    #classes emotion
+#entry
+    #values impatient, impatience
+    #classes emotion
+#entry
+    #values surprised, surprise
+    #classes emotion
+#entry
+    #values optimistic, optimism
+    #classes emotion
+#entry
+    #values disappointed, disappointment
+    #classes emotion
+#entry
+    #values remorseful, remorse
+    #classes emotion
+#entry
+    #values contemptuous, contempt
+    #classes emotion
+#entry
+    #values awed, awe
+    #classes emotion
+#entry
+    #values lustful, lust
+    #classes emotion
+#entry
+    #values longing, longing
+    #classes emotion
+#entry
+    #values content, contentfulness
+    #classes emotion
+#entry
+    #values pleasured, pleasure
+    #classes emotion
+#entry
+    #values tormented, torment
+    #classes emotion
+#entry
+    #values horrified, horror
+    #classes emotion
+#entry
+    #values shocked, shock
+    #classes emotion
+#entry
+    #values furious, fury
+    #classes emotion
+#entry
+    #values sly, slyness
+    #classes emotion
+#entry
+    #values sunny, sunniness
+    #classes weather
+#entry
+    #values rainy, raininess
+    #classes weather
+#entry
+    #values cloudy, cloudiness
+    #classes weather
+#entry
+    #values snowy, snowiness
+    #classes weather
+#entry
+    #values moonlit, moonlight
+    #classes weather
+#entry
+    #values starry, starriness
+    #classes weather
+#entry
+    #values foggy, fogginess
+    #classes weather
+#entry
+    #values crapulous, crapulousness
+    #classes 
+#entry
+    #values feckless, fecklessness
+    #classes 
+#entry
+    #values peckish, peckishness
+    #classes 
+#entry
+    #values comely, comeliness
+    #classes 
+#entry
+    #values bilious, biliousness
+    #classes 
+#entry
+    #values serene, serenity
+    #classes 
+#entry
+    #values emaciated, emaciation
+    #classes appearance
+#entry
+    #values African-American, African-Americanness
+    #classes nationality
+#entry
+    #values delinquent, delinquency
+#entry
+    #values aggravated, aggression
+    #classes emotion
+#entry
+    #values dashing, dashingness
+#entry
+    #values considerate, consideration
+#entry
+    #values busted, bustedness
+#entry
+    #values iridescent, iridescence
+    #classes appearance
+#entry
+    #values golden, golden luster
+    #classes appearance
+#entry
+    #values spontaneous, spontaneity
+#entry
+    #values daring, dare
+#entry
+    #values radioactive, radioactivity
+#entry
+    #values poisonous, toxicity
+#entry
+    #values savage, savageness
+#entry
+    #values terrifying, scariness
+#entry
+    #values unlikely, unlikelihood
+#entry
+    #values speedy, speediness
+#entry
+    #values indestructible, involunurability
+#entry
+    #values invisible, invisibility
+    #classes appearance
+#entry
+    #values odorous, odor
+#entry
+    #values penetrative, penetrative power
+#entry
+    #values immaculate, immaculateness
+#entry
+    #values rowdy, rowdiness
+#entry
+    #values rational, rationality
+#entry
+    #values irrational, irrationality
+#entry
+    #values blasphemous, blasphemy
+#entry
+    #values cooperative, cooperation
+#entry
+    #values professional, professionalism
+#entry
+    #values punctual, punctuality
+#entry
+    #values festive, festiveness
+#entry
+    #values polluted, pollution
+#entry
+    #values potent, potency
+#entry
+    #values powdery, powderiness
+    #classes appearance
+#entry
+    #values powerful, power
+#entry
+    #values piggy, pigginess
+#entry
+    #values assertive, assetiveness
+#entry
+    #values ethical, ethicalness
+#entry
+    #values tight-lipped, tight lips
+#entry
+    #values firm, firmness
+#entry
+    #values unethical, unethicalness
+#entry
+    #values highbrow, highbrowness
+#entry
+    #values scholarly, scholarliness
+#entry
+    #values academic, academicness
+#entry
+    #values sophisticated, sophistication
+#entry
+    #values intelligent, intelligence
+#entry
+    #values intellectual, intellect
+#entry
+    #values cultural, culture
+#entry
+    #values popular, popularity
+#entry
+    #values furrowed, furrowedness
+    #classes appearance
+#entry
+    #values illiterate, illiteracy
+#entry
+    #values educated, education
+#entry
+    #values durable, durability
+#entry
+    #values sublime, sublimeness
+#entry
+    #values ambitious, ambition
+#entry
+    #values family-friendly, family-friendliness
+#entry
+    #values contaminated, contamination
+#entry
+    #values kinky, kinkiness

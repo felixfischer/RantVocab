@@ -1,0 +1,350 @@
+#name l
+#subtypes singular plural
+#entry
+    #values palace, palaces
+    #classes building, indoor
+#entry
+    #values classroom, classrooms
+    #classes indoor
+#entry
+    #values nest, nests
+    #classes natural, indoor
+#entry
+    #values office, offices
+    #classes indoor
+#entry
+    #values ditch, ditches
+    #classes natural, indoor
+#entry
+    #values cave, caves
+    #classes natural, indoor
+#entry
+    #values house, houses
+    #classes indoor
+#entry
+    #values bathroom, bathrooms
+    #classes indoor
+#entry
+    #values bedroom, bedrooms
+    #classes indoor
+#entry
+    #values town, towns
+    #classes indoor
+#entry
+    #values jail, jails
+    #classes building, indoor
+#entry
+    #values shop, shops
+    #classes indoor
+#entry
+    #values tomb, tombs
+    #classes building, indoor
+#entry
+    #values basement, basements
+    #classes indoor
+#entry
+    #values dungeon, dungeons
+    #classes indoor
+#entry
+    #values coffeeshop, coffeeshops
+    #classes building, indoor
+#entry
+    #values tower, towers
+    #classes building, indoor
+#entry
+    #values stable, stables
+    #classes building, indoor
+#entry
+    #values barn, barns
+    #classes building, indoor
+#entry
+    #values mansion, mansions
+    #classes building, indoor
+#entry
+    #values castle, castles
+    #classes building, indoor
+#entry
+    #values attic, attics
+    #classes indoor
+#entry
+    #values cage, cages
+    #classes indoor
+#entry
+    #values stadium, stadiums
+    #classes building, indoor
+#entry
+    #values school, schools
+    #classes building, indoor
+#entry
+    #values mall, malls
+    #classes building, indoor
+#entry
+    #values store, stores
+    #classes building, indoor
+#entry
+    #values stand, stands
+    #classes indoor
+#entry
+    #values company, companies
+    #classes indoor
+#entry
+    #values land, lands
+    #classes natural, indoor
+#entry
+    #values garden, gardens
+    #classes indoor
+#entry
+    #values wonderland, wonderlands
+    #classes indoor
+#entry
+    #values abyss, abysses
+    #classes indoor
+#entry
+    #values shanty, shanties
+    #classes building, indoor
+#entry
+    #values prison, prisons
+    #classes building, indoor
+#entry
+    #values apartment, apartments
+    #classes indoor
+#entry
+    #values closet, closets
+    #classes indoor
+#entry
+    #values shack, shacks
+    #classes building, indoor
+#entry
+    #values tent, tents
+    #classes building, indoor
+#entry
+    #values car, cars
+    #classes indoor
+#entry
+    #values van, vans
+    #classes indoor
+#entry
+    #values alley, alleys
+    #classes indoor
+#entry
+    #values forest, forests
+    #classes natural, indoor
+#entry
+    #values meadow, meadows
+    #classes natural, indoor
+#entry
+    #values outhouse, outhouses
+    #classes building, indoor
+#entry
+    #values boat, boats
+    #classes indoor
+#entry
+    #values port-a-potty, port-a-potties
+    #classes indoor
+#entry
+    #values sauna, saunas
+    #classes indoor
+#entry
+    #values cottage, cottages
+    #classes building, indoor
+#entry
+    #values bank, banks
+    #classes indoor
+#entry
+    #values asylum, asylums
+    #classes building, indoor
+#entry
+    #values arcade, arcades
+    #classes indoor
+#entry
+    #values bar, bars
+    #classes building, indoor
+#entry
+    #values pub, pubs
+    #classes building, indoor
+#entry
+    #values nightclub, nightclubs
+    #classes building, indoor
+#entry
+    #values factory, factories
+    #classes building, indoor
+#entry
+    #values station, stations
+    #classes indoor
+#entry
+    #values firehouse, firehouses
+    #classes building, indoor
+#entry
+    #values safehouse, safehouses
+    #classes building, indoor
+#entry
+    #values warehouse, warehouses
+    #classes building, indoor
+#entry
+    #values bomb shelter, bomb shelters
+    #classes building, indoor
+#entry
+    #values homeless shelter, homeless shelters
+    #classes building, indoor
+#entry
+    #values firetruck, firetrucks
+    #classes indoor
+#entry
+    #values ambulance, ambulances
+    #classes indoor
+#entry
+    #values kitchen, kitchens
+    #classes indoor
+#entry
+    #values church, churches
+    #classes building, indoor
+#entry
+    #values distillery, distilleries
+    #classes building, indoor
+#entry
+    #values conservatory, conservatories
+    #classes building, indoor
+#entry
+    #values morgue, morgues
+    #classes building, indoor
+#entry
+    #values funeral home, funeral homes
+    #classes building, indoor
+#entry
+    #values courthouse, courthouses
+    #classes building, indoor
+#entry
+    #values trailer, trailers
+    #classes indoor
+#entry
+    #values theater, theaters
+    #classes building, indoor
+#entry
+    #values studio, studios
+    #classes building, indoor
+#entry
+    #values ring, rings
+    #classes indoor
+#entry
+    #values fort, forts
+    #classes building, indoor
+#entry
+    #values nursery, nurseries
+    #classes building, indoor
+#entry
+    #values library, libraries
+    #classes building, indoor
+#entry
+    #values hospital, hospitals
+    #classes building, indoor
+#entry
+    #values hostel, hostels
+    #classes building, indoor
+#entry
+    #values hotel, hostels
+    #classes building, indoor
+#entry
+    #values sanctuary, sanctuaries
+    #classes indoor
+#entry
+    #values bus, buses
+    #classes indoor
+#entry
+    #values post office, post offices
+    #classes building, indoor
+#entry
+    #values skyway, skyways
+    #classes indoor
+#entry
+    #values opera, operas
+    #classes indoor
+#entry
+    #values laboratory, laboratories
+    #classes building, indoor
+#entry
+    #values garage, garages
+    #classes indoor
+#entry
+    #values festival, festivals
+    #classes indoor
+#entry
+    #values carnival, carnivals
+    #classes indoor
+#entry
+    #values dispensary, dispensaries
+    #classes indoor
+#entry
+    #values beach, beaches
+    #classes natural, outdoor
+#entry
+    #values highway, highways
+    #classes outdoor
+#entry
+    #values mountain, mountains
+    #classes natural, outdoor
+#entry
+    #values hill, hills
+    #classes natural, outdoor
+#entry
+    #values railroad, railroads
+    #classes outdoor
+#entry
+    #values road, roads
+    #classes outdoor
+#entry
+    #values hilltop, hilltops
+    #classes natural, outdoor
+#entry
+    #values park, parks
+    #classes outdoor
+#entry
+    #values lakeside, lakesides
+    #classes natural, outdoor
+#entry
+    #values grassy plain, grassy plains
+    #classes natural, outdoor
+#entry
+    #values crater, craters
+    #classes natural, outdoor
+#entry
+    #values valley, valleys
+    #classes natural, outdoor
+#entry
+    #values volcano, volcanoes
+    #classes natural, outdoor
+#entry
+    #values island, islands
+    #classes natural, outdoor
+#entry
+    #values farm, farms
+    #classes outdoor
+#entry
+    #values rooftop, rooftops
+    #classes outdoor
+#entry
+    #values dance floor, dance floors
+    #classes outdoor
+#entry
+    #values graveyard, graveyards
+    #classes outdoor
+#entry
+    #values cemetary, cemetaries
+    #classes outdoor
+#entry
+    #values field, fields
+    #classes outdoor
+#entry
+    #values street, streets
+    #classes outdoor
+#entry
+    #values battlefield, battlefields
+    #classes outdoor
+#entry
+    #values wasteland, wastelands
+    #classes natural, outdoor
+#entry
+    #values playground, playgrounds
+    #classes outdoor
+#entry
+    #values amusement park, amusement parks
+    #classes outdoor
