@@ -1,22 +1,22 @@
-#name t
+#name time-adv
 #one
 #entry
     #values at sunrise
     #classes time
 #entry
-    #values 1 month ago
+    #values a month ago
     #classes time
 #entry
-    #values 1 week ago
+    #values a week ago
     #classes time
 #entry
-    #values 1 day ago
+    #values a day ago
     #classes time
 #entry
-    #values 1 hour ago
+    #values an hour ago
     #classes time
 #entry
-    #values 1 year ago
+    #values a year ago
     #classes time
 #entry
     #values millions of years ago

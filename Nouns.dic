@@ -8,34 +8,34 @@
     #values fetus, fetuses
 #entry
     #values boner, boners
-    #classes body
+    #classes body, sex
 #entry
     #values dick, dicks
-    #classes body
+    #classes body, sex
 #entry
     #values cock, cocks
-    #classes body
+    #classes body, sex
 #entry
     #values asshole, assholes
     #classes body, hole
 #entry
     #values ballsack, ballsacks
-    #classes body
+    #classes body, sex
 #entry
     #values testicle, testicles
-    #classes body
+    #classes body, sex
 #entry
     #values scrotum, scrotums
-    #classes body
+    #classes body, sex
 #entry
     #values pube, pubes
     #classes body
 #entry
     #values penis, penises
-    #classes body
+    #classes body, sex
 #entry
     #values vagina, vaginas
-    #classes body, hole
+    #classes body, hole, sex
 #entry
     #values mouth, mouths
     #classes body, hole
@@ -64,7 +64,7 @@
     #values giblet, giblets
 #entry
     #values handcuff, handcuffs
-    #classes sexy
+    #classes sex
 #entry
     #values avocado, avocados
 #entry
@@ -1166,10 +1166,10 @@
     #classes animal
 #entry
     #values boob, boobs
-    #classes body, sexy
+    #classes body, sex, round
 #entry
     #values garden hose, garden hoses
-    #classes sexy, long, tool
+    #classes sex, long, tool
 #entry
     #values fanny, fannies
     #classes body
@@ -1247,7 +1247,7 @@
     #classes body
 #entry
     #values kidney, kidneys
-    #classes body
+    #classes body, round
 #entry
     #values fibula, fibulas
     #classes body
@@ -1461,7 +1461,7 @@
     #classes plant
 #entry
     #values golf ball, golf balls
-    #classes ball
+    #classes ball, round
 #entry
     #values wig, wigs
 #entry
@@ -1508,3 +1508,54 @@
 #entry
     #values harpoon, harpoons
     #classes long, weapon
+#entry
+	#values cuntrocket, cuntrockets
+	#classes sex
+#entry
+	#values micropenis, micropenises
+	#classes sex, body
+#entry
+	#values cuntwaffle, cuntwaffles
+	#classes sex
+#entry
+	#values blue waffle, blue waffles
+	#classes sex
+#entry
+	#values dildo, dildos
+	#classes sex
+#entry
+	#values double dildo, double dildos
+	#classes sex, long
+#entry
+	#values dinocock, dinococks
+	#classes sex
+#entry
+	#values pussy, pussies
+	#classes body, sex
+#entry
+	#values vagflap, vagflaps
+	#classes body, sex
+#entry
+	#values cuntflap, cuntflaps
+	#classes body, sex
+#entry
+	#values cunt, cunts
+	#classes body, sex
+#entry
+	#values anus, anuses
+	#classes body, sex, hole
+#entry
+	#values sphincter, sphincters
+	#classes body, sex, hole
+#entry
+	#values tit, tits
+	#classes body, sex, round
+#entry
+	#values taint, taints
+	#classes body, sex
+#entry
+	#values foreskin, foreskins
+	#classes body, 
+#entry
+	#values silo, silos
+	#classes long

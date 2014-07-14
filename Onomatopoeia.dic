@@ -1,4 +1,4 @@
-#name N
+#name sound
 #subtypes singular plural
 #entry
     #values bang, bangs
