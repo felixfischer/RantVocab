@@ -1559,3 +1559,8 @@
 #entry
 	#values silo, silos
 	#classes long
+#entry
+	#values nipple clamp, nipple clamps
+	#classes tool
+#entry
+	#values tire, tires
