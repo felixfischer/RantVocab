@@ -8,13 +8,13 @@
     #values fetus, fetuses
 #entry
     #values boner, boners
-    #classes body, sex
+    #classes body, sex, long
 #entry
     #values dick, dicks
-    #classes body, sex
+    #classes body, sex, long
 #entry
     #values cock, cocks
-    #classes body, sex
+    #classes body, sex, long
 #entry
     #values asshole, assholes
     #classes body, hole
@@ -32,7 +32,7 @@
     #classes body
 #entry
     #values penis, penises
-    #classes body, sex
+    #classes body, sex, long
 #entry
     #values vagina, vaginas
     #classes body, hole, sex
