@@ -43,6 +43,10 @@
     #values peninsula, peninsulas
 #entry
     #values teen, teens
+	#classes person
+#entry
+	#values child, children
+	#classes person
 #entry
     #values truth, truths
 #entry
@@ -123,8 +127,10 @@
     #values scuba, scubas
 #entry
     #values elf, elves
+	#classes person
 #entry
     #values bass, basses
+	#classes animal
 #entry
     #values football, footballs
 #entry
@@ -178,8 +184,10 @@
     #values ragamuffin, ragamuffins
 #entry
     #values man, men
+	#classes person
 #entry
     #values woman, women
+	#classes person
 #entry
     #values puppet, puppets
 #entry
@@ -321,6 +329,7 @@
     #values hole, holes
 #entry
     #values tunnel, tunnels
+	#classes hole
 #entry
     #values bullet, bullets
     #classes weapon
@@ -340,6 +349,7 @@
     #values duct tape, duct tape
 #entry
     #values chair, chairs
+	#classes furniture
 #entry
     #values button, buttons
 #entry
@@ -382,6 +392,7 @@
     #values potato, potatoes
 #entry
     #values apricot, apricots
+	#classes fruit
 #entry
     #values doll, dolls
 #entry
@@ -530,7 +541,7 @@
     #classes fruit
 #entry
     #values baby, babies
-    #classes fruit
+    #classes fruit, person
 #entry
     #values nectarine, nectarines
     #classes fruit
@@ -905,7 +916,7 @@
     #classes long
 #entry
     #values baton, batons
-    #classes long
+    #classes long, weapon
 #entry
     #values drill, drills
     #classes long, tool, weapon
@@ -1089,6 +1100,21 @@
 #entry
     #values dog, dogs
     #classes animal
+#entry
+	#values bulldog, bulldogs
+	#classes animal, dog
+#entry
+	#values beagle, beagles
+	#classes animal, dog
+#entry
+	#values poodle, poodles
+	#classes animal, dog
+#entry
+	#values rottweiler, rottweilers
+	#classes animal, dog
+#entry
+	#values flamethrower, flamethrowers
+	#classes tool, weapon, long
 #entry
     #values rat, rats
     #classes animal
@@ -1492,7 +1518,7 @@
     #classes body
 #entry
     #values shotgun, shotguns
-    #classes weapon
+    #classes weapon, long
 #entry
     #values grasshopper, grasshoppers
     #classes animal, insect
