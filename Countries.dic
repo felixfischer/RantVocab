@@ -1,0 +1,516 @@
+#name country
+#one
+#entry
+	#values Afghanistan
+#entry
+	#values Akrotiri
+#entry
+	#values Albania
+#entry
+	#values Algeria
+#entry
+	#values American Samoa
+#entry
+	#values Andorra
+#entry
+	#values Angola
+#entry
+	#values Anguilla
+#entry
+	#values Antarctica
+#entry
+	#values Antigua and Barbuda
+#entry
+	#values Argentina
+#entry
+	#values Armenia
+#entry
+	#values Aruba
+#entry
+	#values Ashmore and Cartier Islands
+#entry
+	#values Australia
+#entry
+	#values Austria
+#entry
+	#values Azerbaijan
+#entry
+	#values The Bahamas
+#entry
+	#values Bahrain
+#entry
+	#values Bangladesh
+#entry
+	#values Barbados
+#entry
+	#values Bassas da India
+#entry
+	#values Belarus
+#entry
+	#values Belgium
+#entry
+	#values Belize
+#entry
+	#values Benin
+#entry
+	#values Bermuda
+#entry
+	#values Bhutan
+#entry
+	#values Bolivia
+#entry
+	#values Bosnia and Herzegovina
+#entry
+	#values Botswana
+#entry
+	#values Bouvet Island
+#entry
+	#values Brazil
+#entry
+	#values British Indian Ocean Territory
+#entry
+	#values British Virgin Islands
+#entry
+	#values Brunei
+#entry
+	#values Bulgaria
+#entry
+	#values Burkina Faso
+#entry
+	#values Burma
+#entry
+	#values Burundi
+#entry
+	#values Cambodia
+#entry
+	#values Cameroon
+#entry
+	#values Canada
+#entry
+	#values Cape Verde
+#entry
+	#values Cayman Islands
+#entry
+	#values Central African Republic
+#entry
+	#values Chad
+#entry
+	#values Chile
+#entry
+	#values China
+#entry
+	#values Christmas Island
+#entry
+	#values Clipperton Island
+#entry
+	#values Cocos Islands
+#entry
+	#values Colombia
+#entry
+	#values Comoros
+#entry
+	#values Democratic Republic of the Congo
+#entry
+	#values Republic of the Congo
+#entry
+	#values Cook Islands
+#entry
+	#values Coral Sea Islands
+#entry
+	#values Costa Rica
+#entry
+	#values Cote d'Ivoire
+#entry
+	#values Croatia
+#entry
+	#values Cuba
+#entry
+	#values Cyprus
+#entry
+	#values Czech Republic
+#entry
+	#values Denmark
+#entry
+	#values Dhekelia
+#entry
+	#values Djibouti
+#entry
+	#values Dominica
+#entry
+	#values Dominican Republic
+#entry
+	#values Ecuador
+#entry
+	#values Egypt
+#entry
+	#values El Salvador
+#entry
+	#values Equatorial Guinea
+#entry
+	#values Eritrea
+#entry
+	#values Estonia
+#entry
+	#values Ethiopia
+#entry
+	#values Europa Island
+#entry
+	#values Falkland Islands
+#entry
+	#values Faroe Islands
+#entry
+	#values Fiji
+#entry
+	#values Finland
+#entry
+	#values France
+#entry
+	#values French Guiana
+#entry
+	#values French Polynesia
+#entry
+	#values French Southern and Antarctic Lands
+#entry
+	#values Gabon
+#entry
+	#values The Gambia
+#entry
+	#values Gaza Strip
+#entry
+	#values Georgia
+#entry
+	#values Germany
+#entry
+	#values Ghana
+#entry
+	#values Gibraltar
+#entry
+	#values Glorioso Islands
+#entry
+	#values Greece
+#entry
+	#values Greenland
+#entry
+	#values Grenada
+#entry
+	#values Guadeloupe
+#entry
+	#values Guam
+#entry
+	#values Guatemala
+#entry
+	#values Guernsey
+#entry
+	#values Guinea
+#entry
+	#values Guinea-Bissau
+#entry
+	#values Guyana
+#entry
+	#values Haiti
+#entry
+	#values Heard Island and McDonald Islands
+#entry
+	#values Holy See
+#entry
+	#values Honduras
+#entry
+	#values Hong Kong
+#entry
+	#values Hungary
+#entry
+	#values Iceland
+#entry
+	#values India
+#entry
+	#values Indonesia
+#entry
+	#values Iran
+#entry
+	#values Iraq
+#entry
+	#values Ireland
+#entry
+	#values Isle of Man
+#entry
+	#values Israel
+#entry
+	#values Italy
+#entry
+	#values Jamaica
+#entry
+	#values Jan Mayen
+#entry
+	#values Japan
+#entry
+	#values Jersey
+#entry
+	#values Jordan
+#entry
+	#values Juan de Nova Island
+#entry
+	#values Kazakhstan
+#entry
+	#values Kenya
+#entry
+	#values Kiribati
+#entry
+	#values North Korea
+#entry
+	#values South Korea
+#entry
+	#values Kuwait
+#entry
+	#values Kyrgyzstan
+#entry
+	#values Laos
+#entry
+	#values Latvia
+#entry
+	#values Lebanon
+#entry
+	#values Lesotho
+#entry
+	#values Liberia
+#entry
+	#values Libya
+#entry
+	#values Liechtenstein
+#entry
+	#values Lithuania
+#entry
+	#values Luxembourg
+#entry
+	#values Macau
+#entry
+	#values Macedonia
+#entry
+	#values Madagascar
+#entry
+	#values Malawi
+#entry
+	#values Malaysia
+#entry
+	#values Maldives
+#entry
+	#values Mali
+#entry
+	#values Malta
+#entry
+	#values Marshall Islands
+#entry
+	#values Martinique
+#entry
+	#values Mauritania
+#entry
+	#values Mauritius
+#entry
+	#values Mayotte
+#entry
+	#values Mexico
+#entry
+	#values Federated States of Micronesia
+#entry
+	#values Moldova
+#entry
+	#values Monaco
+#entry
+	#values Mongolia
+#entry
+	#values Montserrat
+#entry
+	#values Morocco
+#entry
+	#values Mozambique
+#entry
+	#values Namibia
+#entry
+	#values Nauru
+#entry
+	#values Navassa Island
+#entry
+	#values Nepal
+#entry
+	#values Netherlands
+#entry
+	#values Netherlands Antilles
+#entry
+	#values New Caledonia
+#entry
+	#values New Zealand
+#entry
+	#values Nicaragua
+#entry
+	#values Niger
+#entry
+	#values Nigeria
+#entry
+	#values Niue
+#entry
+	#values Norfolk Island
+#entry
+	#values Northern Mariana Islands
+#entry
+	#values Norway
+#entry
+	#values Oman
+#entry
+	#values Pakistan
+#entry
+	#values Palau
+#entry
+	#values Panama
+#entry
+	#values Papua New Guinea
+#entry
+	#values Paracel Islands
+#entry
+	#values Paraguay
+#entry
+	#values Peru
+#entry
+	#values Philippines
+#entry
+	#values Pitcairn Islands
+#entry
+	#values Poland
+#entry
+	#values Portugal
+#entry
+	#values Puerto Rico
+#entry
+	#values Qatar
+#entry
+	#values Reunion
+#entry
+	#values Romania
+#entry
+	#values Russia
+#entry
+	#values Rwanda
+#entry
+	#values Saint Helena
+#entry
+	#values Saint Kitts and Nevis
+#entry
+	#values Saint Lucia
+#entry
+	#values Saint Pierre and Miquelon
+#entry
+	#values Saint Vincent and the Grenadines
+#entry
+	#values Samoa
+#entry
+	#values San Marino
+#entry
+	#values Sao Tome and Principe
+#entry
+	#values Saudi Arabia
+#entry
+	#values Senegal
+#entry
+	#values Serbia and Montenegro
+#entry
+	#values Seychelles
+#entry
+	#values Sierra Leone
+#entry
+	#values Singapore
+#entry
+	#values Slovakia
+#entry
+	#values Slovenia
+#entry
+	#values Solomon Islands
+#entry
+	#values Somalia
+#entry
+	#values South Africa
+#entry
+	#values South Georgia and the South Sandwich Islands
+#entry
+	#values Spain
+#entry
+	#values Spratly Islands
+#entry
+	#values Sri Lanka
+#entry
+	#values Sudan
+#entry
+	#values Suriname
+#entry
+	#values Svalbard
+#entry
+	#values Swaziland
+#entry
+	#values Sweden
+#entry
+	#values Switzerland
+#entry
+	#values Syria
+#entry
+	#values Taiwan
+#entry
+	#values Tajikistan
+#entry
+	#values Tanzania
+#entry
+	#values Thailand
+#entry
+	#values Timor-Leste
+#entry
+	#values Togo
+#entry
+	#values Tokelau
+#entry
+	#values Tonga
+#entry
+	#values Trinidad and Tobago
+#entry
+	#values Tromelin Island
+#entry
+	#values Tunisia
+#entry
+	#values Turkey
+#entry
+	#values Turkmenistan
+#entry
+	#values Turks and Caicos Islands
+#entry
+	#values Tuvalu
+#entry
+	#values Uganda
+#entry
+	#values Ukraine
+#entry
+	#values United Arab Emirates
+#entry
+	#values United Kingdom
+#entry
+	#values United States
+#entry
+	#values Uruguay
+#entry
+	#values Uzbekistan
+#entry
+	#values Vanuatu
+#entry
+	#values Venezuela
+#entry
+	#values Vietnam
+#entry
+	#values Virgin Islands
+#entry
+	#values Wake Island
+#entry
+	#values Wallis and Futuna
+#entry
+	#values West Bank
+#entry
+	#values Western Sahara
+#entry
+	#values Yemen
+#entry
+	#values Zambia
+#entry
+	#values Zimbabwe
