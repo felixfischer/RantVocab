@@ -2,10 +2,13 @@
 #one
 #entry
 	#values Afghanistan
+	#classes asia, middle-east
 #entry
 	#values Akrotiri
+	#classes mediterranean
 #entry
 	#values Albania
+	#classes europe
 #entry
 	#values Algeria
 #entry
@@ -22,6 +25,7 @@
 	#values Antigua and Barbuda
 #entry
 	#values Argentina
+	#classes south-america
 #entry
 	#values Armenia
 #entry
@@ -30,8 +34,10 @@
 	#values Ashmore and Cartier Islands
 #entry
 	#values Australia
+	#classes oceania
 #entry
 	#values Austria
+	#classes europe
 #entry
 	#values Azerbaijan
 #entry
@@ -48,6 +54,7 @@
 	#values Belarus
 #entry
 	#values Belgium
+	#classes europe
 #entry
 	#values Belize
 #entry
@@ -66,6 +73,7 @@
 	#values Bouvet Island
 #entry
 	#values Brazil
+	#classes south-america
 #entry
 	#values British Indian Ocean Territory
 #entry
@@ -74,6 +82,7 @@
 	#values Brunei
 #entry
 	#values Bulgaria
+	#classes europe
 #entry
 	#values Burkina Faso
 #entry
@@ -82,10 +91,12 @@
 	#values Burundi
 #entry
 	#values Cambodia
+	#classes asia
 #entry
 	#values Cameroon
 #entry
 	#values Canada
+	#classes north-america
 #entry
 	#values Cape Verde
 #entry
@@ -96,8 +107,10 @@
 	#values Chad
 #entry
 	#values Chile
+	#classes south-america
 #entry
 	#values China
+	#classes asia
 #entry
 	#values Christmas Island
 #entry
@@ -106,42 +119,51 @@
 	#values Cocos Islands
 #entry
 	#values Colombia
+	#classes south-america
 #entry
 	#values Comoros
 #entry
 	#values Democratic Republic of the Congo
+	#classes africa
 #entry
 	#values Republic of the Congo
+	#classes africa
 #entry
 	#values Cook Islands
 #entry
 	#values Coral Sea Islands
 #entry
 	#values Costa Rica
+	#classes central-america
 #entry
 	#values Cote d'Ivoire
 #entry
 	#values Croatia
 #entry
 	#values Cuba
+	#classes caribbean
 #entry
 	#values Cyprus
+	#classes mediterranean
 #entry
 	#values Czech Republic
 #entry
 	#values Denmark
+	#classes europe
 #entry
 	#values Dhekelia
 #entry
 	#values Djibouti
 #entry
 	#values Dominica
+	#classes caribbean
 #entry
 	#values Dominican Republic
 #entry
 	#values Ecuador
 #entry
 	#values Egypt
+	#classes africa
 #entry
 	#values El Salvador
 #entry
@@ -162,8 +184,10 @@
 	#values Fiji
 #entry
 	#values Finland
+	#classes europe
 #entry
 	#values France
+	#classes europe
 #entry
 	#values French Guiana
 #entry
@@ -180,14 +204,17 @@
 	#values Georgia
 #entry
 	#values Germany
+	#classes europe
 #entry
 	#values Ghana
+	#classes africa
 #entry
 	#values Gibraltar
 #entry
 	#values Glorioso Islands
 #entry
 	#values Greece
+	#classes europe
 #entry
 	#values Greenland
 #entry
@@ -196,8 +223,10 @@
 	#values Guadeloupe
 #entry
 	#values Guam
+	#classes oceania
 #entry
 	#values Guatemala
+	#classes central-america
 #entry
 	#values Guernsey
 #entry
@@ -208,40 +237,53 @@
 	#values Guyana
 #entry
 	#values Haiti
+	#classes central-america
 #entry
 	#values Heard Island and McDonald Islands
 #entry
 	#values Holy See
 #entry
 	#values Honduras
+	#classes central-america
 #entry
 	#values Hong Kong
+	#classes asia
 #entry
 	#values Hungary
+	#classes europe
 #entry
 	#values Iceland
 #entry
 	#values India
+	#classes asia
 #entry
 	#values Indonesia
+	#classes asia, oceania
 #entry
 	#values Iran
+	#classes middle-east
 #entry
 	#values Iraq
+	#classes middle-east
 #entry
 	#values Ireland
+	#classes europe
 #entry
 	#values Isle of Man
 #entry
 	#values Israel
+	#classes middle-east
 #entry
 	#values Italy
+	#classes europe
 #entry
 	#values Jamaica
+	#classes caribbean
 #entry
 	#values Jan Mayen
 #entry
 	#values Japan
+	#classes asia
 #entry
 	#values Jersey
 #entry
@@ -252,20 +294,25 @@
 	#values Kazakhstan
 #entry
 	#values Kenya
+	#classes africa
 #entry
 	#values Kiribati
 #entry
 	#values North Korea
+	#classes asia
 #entry
 	#values South Korea
+	#classes asia
 #entry
 	#values Kuwait
 #entry
 	#values Kyrgyzstan
+	#classes asia
 #entry
 	#values Laos
 #entry
 	#values Latvia
+	#classes europe
 #entry
 	#values Lebanon
 #entry
@@ -274,22 +321,27 @@
 	#values Liberia
 #entry
 	#values Libya
+	#classes africa
 #entry
 	#values Liechtenstein
 #entry
 	#values Lithuania
+	#classes europe
 #entry
 	#values Luxembourg
+	#classes europe
 #entry
 	#values Macau
 #entry
 	#values Macedonia
 #entry
 	#values Madagascar
+	#classes africa
 #entry
 	#values Malawi
 #entry
 	#values Malaysia
+	#classes asia
 #entry
 	#values Maldives
 #entry
@@ -308,6 +360,7 @@
 	#values Mayotte
 #entry
 	#values Mexico
+	#classes north-america
 #entry
 	#values Federated States of Micronesia
 #entry
@@ -316,10 +369,12 @@
 	#values Monaco
 #entry
 	#values Mongolia
+	#classes asia
 #entry
 	#values Montserrat
 #entry
 	#values Morocco
+	#classes africa
 #entry
 	#values Mozambique
 #entry
@@ -330,20 +385,26 @@
 	#values Navassa Island
 #entry
 	#values Nepal
+	#classes asia
 #entry
 	#values Netherlands
+	#classes europe
 #entry
 	#values Netherlands Antilles
 #entry
 	#values New Caledonia
 #entry
 	#values New Zealand
+	#classes oceania
 #entry
 	#values Nicaragua
+	#classes central-america
 #entry
 	#values Niger
+	#classes africa
 #entry
 	#values Nigeria
+	#classes africa
 #entry
 	#values Niue
 #entry
@@ -352,30 +413,38 @@
 	#values Northern Mariana Islands
 #entry
 	#values Norway
+	#classes europe
 #entry
 	#values Oman
 #entry
 	#values Pakistan
+	#classes middle-east
 #entry
 	#values Palau
 #entry
 	#values Panama
+	#classes central-america
 #entry
 	#values Papua New Guinea
+	#classes oceania
 #entry
 	#values Paracel Islands
 #entry
 	#values Paraguay
 #entry
 	#values Peru
+	#classes south-america
 #entry
 	#values Philippines
+	#classes oceania
 #entry
 	#values Pitcairn Islands
 #entry
 	#values Poland
+	#classes europe
 #entry
 	#values Portugal
+	#classes europe
 #entry
 	#values Puerto Rico
 #entry
@@ -384,10 +453,13 @@
 	#values Reunion
 #entry
 	#values Romania
+	#classes europe
 #entry
 	#values Russia
+	#classes europe, asia, eurasia
 #entry
 	#values Rwanda
+	#classes africa
 #entry
 	#values Saint Helena
 #entry
@@ -400,12 +472,14 @@
 	#values Saint Vincent and the Grenadines
 #entry
 	#values Samoa
+	#classes oceania
 #entry
 	#values San Marino
 #entry
 	#values Sao Tome and Principe
 #entry
 	#values Saudi Arabia
+	#classes middle-east
 #entry
 	#values Senegal
 #entry
@@ -416,26 +490,34 @@
 	#values Sierra Leone
 #entry
 	#values Singapore
+	#classes asia
 #entry
 	#values Slovakia
+	#classes europe
 #entry
 	#values Slovenia
+	#classes europe
 #entry
 	#values Solomon Islands
+	#classes oceania
 #entry
 	#values Somalia
+	#classes africa
 #entry
 	#values South Africa
+	#classes africa
 #entry
 	#values South Georgia and the South Sandwich Islands
 #entry
 	#values Spain
+	#classes europe
 #entry
 	#values Spratly Islands
 #entry
 	#values Sri Lanka
 #entry
 	#values Sudan
+	#classes africa
 #entry
 	#values Suriname
 #entry
@@ -444,18 +526,23 @@
 	#values Swaziland
 #entry
 	#values Sweden
+	#classes europe
 #entry
 	#values Switzerland
+	#classes europe
 #entry
 	#values Syria
+	#classes middle-east
 #entry
 	#values Taiwan
+	#classes asia
 #entry
 	#values Tajikistan
 #entry
 	#values Tanzania
 #entry
 	#values Thailand
+	#classes asia
 #entry
 	#values Timor-Leste
 #entry
@@ -472,6 +559,7 @@
 	#values Tunisia
 #entry
 	#values Turkey
+	#classes europe
 #entry
 	#values Turkmenistan
 #entry
@@ -484,10 +572,13 @@
 	#values Ukraine
 #entry
 	#values United Arab Emirates
+	#classes middle-east
 #entry
 	#values United Kingdom
+	#classes europe
 #entry
 	#values United States
+	#classes north-america
 #entry
 	#values Uruguay
 #entry
