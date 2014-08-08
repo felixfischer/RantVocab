@@ -215,6 +215,7 @@
     #values clip, clipping, clipped, clips, clipper, clipped, clipping
 #entry
     #values stroke, stroking, stroked, strokes, stroker, stroked, stroking
+	#classes sex
 #entry
     #values plaster, plastering, plastered, plasters, plasterer, plastered, plastering
 #entry
@@ -780,3 +781,12 @@
 	#classes sex, 
 #entry
 	#values toast, toasting, toasted, toasts, toaster, toasted, toasting
+#entry
+	#values fuck, fucking, fucked, fucks, fucker, fucked, fucking
+	#classes sex
+#entry
+	#values masturbate, masturbating, masturbated, masturbates, masturbator, masturbated, masturbation
+	#classes sex
+#entry
+	#values fellate, fellating, fellated, fellates, fellater, fellated, fellatio
+	#classes sex
