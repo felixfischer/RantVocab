@@ -1510,12 +1510,36 @@
     #values lizard, lizards
     #classes animal
 #entry
+	#values hedgehog, hedgehogs
+	#classes animal
+#entry
     #values dingleberry, dingleberries
 #entry
     #values teddy bear, teddy bears
 #entry
     #values ogre, ogres
     #classes animal
+#entry
+	#values goat, goats
+	#classes animal
+#entry
+	#values llama, llamas
+	#classes animal
+#entry
+	#values porcupine, porcupines
+	#classes animal
+#entry
+	#values tiger, tigers
+	#classes animal
+#entry
+	#values lion, lions
+	#classes animal
+#entry
+	#values wolf, wolves
+	#classes animal
+#entry
+	#values hyena, hyenas
+	#classes animal
 #entry
     #values dimple, dimples
     #classes body

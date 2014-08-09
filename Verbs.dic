@@ -6,42 +6,59 @@
     #values spelunk, spelunking, spelunked, spelunks, spelunker, spelunked, spelunking
 #entry
     #values invigorate, invigorating, invigorated, invigorates, invigorator, invigorated, invigoration
+	#classes transitive
 #entry
     #values extrapolate, extrapolating, extrapolated, extrapolates, extrapolator, extrapolated, extrapolation
+	#classes transitive
 #entry
     #values extrude, extruding, extruded, extrudes, extruder, extruded, extruding
+	#classes transitive
 #entry
     #values squelch, squelching, squelched, squelches, squelcher, squelched, squelching
 #entry
     #values articulate, articulating, articulated, articulates, articulator, articulated, articulation
+	#classes transitive
 #entry
     #values transcribe, transcribing, transcribed, transcribes, transcriber, transcribed, transcribing
+	#classes transitive
 #entry
     #values draft, drafting, drafted, drafts, drafter, drafted, drafting
+	#classes transitive
 #entry
     #values tune, tuning, tuned, tunes, tuner, tuned, tunings
+	#classes transitive
 #entry
     #values withdraw, withdrawing, withdrew, withdraws, withdrawer, withdrawn, withdrawing
+	#classes transitive
 #entry
     #values strategize, strategizing, strategized, strategizes, strategizer, strategized, strategizing
 #entry
     #values zip, zipping, zipped, zips, zipper, zipped, zipping
+	#classes transitive
 #entry
     #values extend, extending, extended, extends, extender, extended, extending
+	#classes transitive
 #entry
     #values streamline, streamlining, streamlined, streamlines, streamliner, streamlined, streamlining
+	#classes transitive
 #entry
     #values organize, organizing, organized, organizes, organizer, organized, organization
+	#classes transitive
 #entry
     #values quantify, quantifying, quantified, quantifies, quantifier, quantified, quantification
+	#classes transitive
 #entry
     #values grate, grating, grated, grates, grater, grated, grating
+	#classes transitive
 #entry
     #values tape, taping, taped, tapes, taper, taped, taping
+	#classes transitive
 #entry
     #values oil, oiling, oiled, oils, oiler, oiled, oiling
+	#classes transitive
 #entry
     #values strap, strapping, strapped, straps, strapper, strapped, strapping
+	#classes transitive
 #entry
     #values snoop, snooping, snooped, snoops, snooper, snooped, snooping
     #classes walk
@@ -51,313 +68,411 @@
     #values flap, flapping, flapped, flaps, flapper, flapped, flapping
 #entry
     #values cultivate, cultivating, cultivated, cultivates, cultivater, cultivated, cultivation
+	#classes transitive
 #entry
     #values moan, moaning, moaned, moans, moaner, moaned, moaning
 #entry
     #values discipline, disciplining, disciplined, disciplines, discipliner, disciplined, discipline
+	#classes transitive
 #entry
     #values rustle, rustling, rustled, rustles, rustler, rustled, rustling
 #entry
     #values examine, examining, examined, examines, examiner, examined, examination
+	#classes transitive
 #entry
     #values fiddle, fiddling, fiddled, fiddles, fiddler, fiddled, fiddling
 #entry
     #values stew, stewing, stewed, stews, stewer, stewed, stewing
+	#classes transitive
 #entry
     #values stir, stirring, stirred, stirs, stirrer, stirred, stirring
+	#classes transitive
 #entry
     #values hug, hugging, hugged, hugs, hugger, hugged, hugging
+	#classes transitive
 #entry
     #values pop, popping, popped, pops, popper, popped, popping
+	#classes transitive
 #entry
     #values hiccup, hiccuping, hiccuped, hiccups, hiccuper, hiccuped, hiccuping
 #entry
     #values sanitize, sanitizing, sanitized, sanitizes, sanitizer, sanitized, sanitization
+	#classes transitive
 #entry
     #values clean, cleaning, cleaned, cleans, cleaner, cleaned, cleaning
+	#classes transitive
 #entry
     #values touch, touching, touched, touches, toucher, touched, touching
+	#classes transitive
 #entry
     #values vibrate, vibrating, vibrated, vibrates, vibrator, vibrated, vibration
 #entry
     #values strain, straining, strained, strains, strainer, strained, straining
+	#classes transitive, intransitive
 #entry
     #values kill, killing, killed, kills, killer, killed, killing
+	#classes transitive
 #entry
     #values barbeque, barbequing, barbequed, barbeques, barbequer, barbequed, barbequing
 #entry
     #values gargle, gargling, gargled, gargles, gargler, gargled, gargling
+	#classes transitive
 #entry
     #values crumple, crumpling, crumpled, crumples, crumpler, crumpled, crumpling
+	#classes transitive
 #entry
     #values salt, salting, salted, salts, salter, salted, salting
+	#classes transitive
 #entry
     #values season, seasoning, seasoned, seasons, seasoner, seasoned, seasoning
+	#classes transitive
 #entry
     #values marinate, marinating, marinated, marinates, marinater, marinated, marination
+	#classes transitive
 #entry
     #values pickle, pickling, pickled, pickles, pickler, pickled, pickling
+	#classes transitive
 #entry
     #values polish, polishing, polished, polishes, polisher, polished, polishing
+	#classes transitive
 #entry
     #values caress, caressing, caressed, caresses, caresser, caressed, caressing
+	#classes transitive
 #entry
     #values stimulate, stimulating, stimulated, stimulates, stimulator, stimulated, stimulation
+	#classes transitive
 #entry
     #values hunt, hunting, hunted, hunts, hunter, hunted, hunting
+	#classes transitive
 #entry
     #values dishonor, dishonoring, dishonored, dishonors, dishonorer, dishonored, dishonoring
+	#classes transitive
 #entry
     #values puff, puffing, puffed, puffs, puffer, puffed, puffing
 #entry
     #values suckle, suckling, suckled, suckles, suckler, suckled, suckling
+	#classes transitive
 #entry
     #values squeeze, squeezing, squeezed, squeezes, squeezer, squeezed, squeezing
+	#classes transitive
 #entry
     #values infest, infesting, infested, infests, infester, infested, infestation
+	#classes transitive
 #entry
     #values tap, tapping, tapped, taps, tapper, tapped, tapping
+	#classes transitive
 #entry
     #values probe, probing, probed, probes, proper, probed, probing
+	#classes transitive
 #entry
     #values tinkle, tinkling, tinkled, tinkles, tinkler, tinkled, tinkling
+	#classes intransitive
 #entry
     #values blast, blasting, blasted, blasts, blaster, blasted, blasting
+	#classes transitive
 #entry
     #values shave, shaving, shaved, shaves, shaver, shaved, shaving
+	#classes transitive, intransitive
 #entry
     #values wrinkle, wrinkling, wrinkled, wrinkles, wrinkler, wrinkled, wrinkling
+	#classes transitive
 #entry
     #values kiss, kissing, kissed, kisses, kisser, kissed, kissing
+	#classes transitive, intransitive
 #entry
     #values cuddle, cuddling, cuddled, cuddles, cuddler, cuddled, cuddling
+	#classes transitive, intransitive
 #entry
     #values soak, soaking, soaked, soaks, soaker, soaked, soaking
+	#classes transitive, intransitive
 #entry
     #values grip, gripping, gripped, grips, gripper, gripped, gripping
+	#classes transitive
 #entry
     #values jerk, jerking, jerked, jerks, jerker, jerked, jerking
+	#classes transitive, intransitive
 #entry
     #values scrub, scrubbing, scrubbed, scrubs, scrubber, scrubbed, scrubbing
+	#classes transitive, intransitive
 #entry
     #values mist, misting, misted, mists, mister, misted, misting
+	#classes transitive
 #entry
     #values burn, burning, burned, burns, burner, burnt, burning
+	#classes transitive, intransitive
 #entry
     #values freeze, freezing, froze, freezes, freezer, frozen, freezing
+	#classes transitive, intransitive
 #entry
     #values dry-freeze, dry-freezing, dry-froze, dry-freezes, dry-freezer, dry-frozen, dry-freezing
+	#classes transitive
 #entry
     #values bake, baking, baked, bakes, baker, baked, baking
+	#classes transitive, intransitive
 #entry
     #values deep-fry, deep-frying, deep-fried, deep-fries, deep-frier, deep-fried, deep-frying
+	#classes transitive
 #entry
     #values swallow, swallowing, swallowed, swallows, swallower, swallowed, swallowing
+	#classes transitive, intransitive
 #entry
     #values flatten, flattening, flattened, flattens, flattener, flattened, flattening
+	#classes transitive, intransitive
 #entry
     #values glue, gluing, glued, glues, gluer, glued, gluing
+	#classes transitive
 #entry
     #values rub, rubbing, rubbed, rubs, rubber, rubbed, rubbing
+	#classes transitive
 #entry
     #values swipe, swiping, swiped, swipes, swiper, swiped, swiping
+	#classes transitive
 #entry
     #values rot, rotting, rotted, rots, rotter, rotten, rotting
+	#classes intransitive
 #entry
     #values sculpt, sculpting, sculpted, sculpts, sculptor, sculpted, sculpture
+	#classes transitive, intransitive
 #entry
     #values iron, ironing, ironed, irons, ironer, ironed, ironing
+	#classes transitive
 #entry
     #values roll, rolling, rolled, rolls, roller, rolled, rolling
+	#classes transitive, intransitive
 #entry
     #values slit, slitting, slit, slits, slitter, slit, slitting
+	#classes transitive
 #entry
     #values cut, cutting, cut, cuts, cutter, cut, cutting
+	#classes transitive, intransitive
 #entry
     #values loosen, loosening, loosened, loosens, loosener, loosened, loosening
+	#classes transitive
 #entry
     #values tighten, tightening, tightened, tightens, tightener, tightened, tightening
+	#classes transitive
 #entry
     #values penetrate, penetrating, penetrated, penetrates, penetrator, penetrated, penetration
+	#classes transitive
 #entry
     #values strike, striking, struck, strikes, striker, stricken, striking
+	#classes transitive
 #entry
     #values recycle, recycling, recycled, recycles, recycler, recycled, recycling
+	#classes transitive
 #entry
     #values groom, grooming, groomed, grooms, groomer, groomed, grooming
+	#classes transitive
 #entry
     #values hypnotize, hypnotizing, hypnotized, hypnotizes, hypnotist, hypnotized, hypnotization
+	#classes transitive
 #entry
     #values dig, digging, dug, digs, digger, dug, digging
+	#classes transitive, intransitive
 #entry
     #values crush, crushing, crushed, crushes, crusher, crushed, crushing
+	#classes transitive
 #entry
     #values cook, cooking, cooked, cooks, cooker, cooked, cooking
+	#classes transitive, intransitive
 #entry
     #values rattle, rattling, rattled, rattles, rattler, rattled, rattling
+	#classes intransitive
 #entry
     #values massage, massaging, massaged, massages, massager, massaged, massage
+	#classes transitive
 #entry
     #values toke, toking, toked, tokes, toker, toked, toking
+	#classes transitive
 #entry
     #values pull, pulling, pulled, pulls, puller, pulled, pulling
+	#classes transitive, intransitive
 #entry
     #values yank, yanking, yanked, yanks, yanker, yanked, yanking
+	#classes transitive, intransitive
 #entry
     #values dice, dicing, diced, dices, dicer, diced, dicing
+	#classes transitive
 #entry
     #values chop, chopping, chopped, chops, chopper, chopped, chopping
+	#classes transitive
 #entry
     #values boil, boiling, boiled, boils, boiler, boiled, boiling
+	#classes transitive, intransitive
 #entry
     #values uproot, uprooting, uprooted, uproots, uprooter, uprooted, uprooting
+	#classes transitive
 #entry
     #values clip, clipping, clipped, clips, clipper, clipped, clipping
+	#classes transitive
 #entry
     #values stroke, stroking, stroked, strokes, stroker, stroked, stroking
-	#classes sex
+	#classes sex, transitive
 #entry
     #values plaster, plastering, plastered, plasters, plasterer, plastered, plastering
+	#classes transitive, intransitive
 #entry
     #values scrunch, scrunching, scrunched, scrunches, scruncher, scrunched, scrunching
+	#classes transitive
 #entry
     #values superglue, supergluing, superglued, superglues, supergluer, superglued, supergluing
+	#classes transitive
 #entry
     #values embrace, embracing, embraced, embraces, embracer, embraced, embrace
+	#classes transitive
 #entry
     #values smoke, smoking, smoked, smokes, smoker, smoked, smoking
+	#classes transitive, intransitive
 #entry
     #values moisten, moistening, moistened, moistens, moistener, moistened, moisturization
+	#classes transitive
 #entry
     #values flick, flicking, flicked, flicks, flicker, flicked, flicking
+	#classes transitive, intransitive
 #entry
     #values scorch, scorching, scorched, scorches, scorcher, scorched, scorching
+	#classes transitive, intransitive
 #entry
     #values scold, scolding, scolded, scolds, scolder, scolded, scolding
+	#classes transitive
 #entry
     #values punish, punishing, punished, punishes, punisher, punished, punishment
+	#classes transitive
 #entry
     #values handle, handling, handled, handles, handler, handled, handling
+	#classes transitive
 #entry
     #values finger, fingering, fingered, fingers, fingerer, fingered, fingering
+	#classes transitive
 #entry
     #values manipulate, manipulating, manipulated, manipulates, manipulator, manipulated, manipulation
+	#classes transitive
 #entry
     #values exploit, exploiting, exploited, exploits, exploiter, exploited, exploitation
+	#classes transitive
 #entry
     #values misuse, misusing, misused, misuses, misuser, misused, misuse
+	#classes transitive
 #entry
     #values breastfeed, breastfeeding, breastfed, breastfeeds, breastfeeder, breastfed, breastfeeding
+	#classes transitive, intransitive
 #entry
     #values pillage, pillaging, pillaged, pillages, pillager, pillaged, pillaging
+	#classes transitive
 #entry
     #values eliminate, eliminating, eliminated, eliminates, eliminater, eliminated, elimination
+	#classes transitive
 #entry
     #values waste, wasting, wasted, wastes, waster, wasted, wasting
+	#classes transitive, intransitive
 #entry
     #values grind, grinding, grinded, grinds, grinder, ground, grinding
+	#classes transitive
 #entry
     #values fight, fighting, fought, fights, fighter, fighted, fighting
+	#classes transitive
 #entry
     #values stuff, stuffing, stuffed, stuffs, stuffer, stuffed, stuffing
+	#classes transitive
 #entry
     #values fume, fuming, fumed, fumes, fumer, fumed, fuming
+	#classes intransitive
 #entry
     #values stand, standing, stood, stands, stander, stood, standing
-    #classes pose
+    #classes pose, intransitive
 #entry
     #values sit, sitting, sat, sits, sitter, sat, sitting
-    #classes pose
+    #classes pose, intransitive
 #entry
     #values lay, laying, laid, lays, layer, laid, laying
-    #classes pose
+    #classes pose, intransitive
 #entry
     #values crouch, crouching, crouched, crouches, croucher, crouched, crouching
-    #classes pose
+    #classes pose, intransitive
 #entry
     #values squat, squatting, squatted, squats, squatter, squatted, squatting
-    #classes pose
+    #classes pose, intransitive
 #entry
     #values slurp, slurping, slurped, slurps, slurper, slurped, slurping
-    #classes eat
+    #classes eat, intransitive
 #entry
     #values lick, licking, licked, licks, licker, licked, licking
-    #classes eat
+    #classes eat, intransitive
 #entry
     #values snort, snorting, snorted, snorts, snorter, snorted, snorting
-    #classes eat
+    #classes eat, intransitive
 #entry
     #values eat, eating, ate, eats, eater, eaten, eating
-    #classes eat
+    #classes eat, intransitive, transitive
 #entry
     #values suck, sucking, sucked, sucks, sucker, sucked, sucking
-    #classes eat
+    #classes eat, transitive
 #entry
     #values snuffle, snuffling, snuffled, snuffles, snuffler, snuffled, snuffling
-    #classes eat
+    #classes eat, intransitive
 #entry
     #values guzzle, guzzling, guzzled, guzzles, guzzler, guzzled, guzzling
-    #classes eat
+    #classes eat, transitive
 #entry
     #values sniff, sniffing, sniffed, sniffs, sniffer, sniffed, sniffing
-    #classes eat
+    #classes eat, transitive, intransitive
 #entry
     #values nibble, nibbling, nibbled, nibbles, nibbler, nibbled, nibbling
-    #classes eat
+    #classes eat, transitive
 #entry
     #values defecate, defecating, defecated, defecates, defecator, defecated, defecation
-    #classes liquid
+    #classes liquid, intransitive, transitive
 #entry
     #values spurt, spurting, spurted, spurts, spurter, spurted, spurting
-    #classes liquid
+    #classes liquid, intransitive, transitive
 #entry
     #values smear, smearing, smeared, smears, smearer, smeared, smearing
-    #classes liquid
+    #classes liquid, transitive
 #entry
     #values paint, painting, painted, paints, painter, painted, painting
-    #classes liquid
+    #classes liquid, intransitive, transitive
 #entry
     #values shower, showering, showered, showers, showerer, showered, showering
-    #classes liquid
+    #classes liquid, transitive
 #entry
     #values sputter, sputtering, sputtered, sputters, sputterer, sputtered, sputtering
-    #classes liquid
+    #classes liquid, transitive, intransitive
 #entry
     #values drain, draining, drained, drains, drainer, drained, draining
-    #classes liquid
+    #classes liquid, intransitive, transitive
 #entry
     #values smatter, smattering, smattered, smatters, smatterer, smattered, smattering
-    #classes liquid
+    #classes liquid, intransitive
 #entry
     #values urinate, urinating, urinated, urinates, urinator, urinated, urination
-    #classes liquid
+    #classes liquid, intransitive
 #entry
     #values splatter, splattering, splattered, splatters, splatterer, splattered, splattering
-    #classes liquid
+    #classes liquid, transitive
 #entry
     #values spray, spraying, sprayed, sprays, sprayer, sprayed, spraying
-    #classes liquid
+    #classes liquid, transitive
 #entry
     #values jet-spray, jet-spraying, jet-sprayed, jet-sprays, jet-sprayer, jet-sprayed, jet-spraying
-    #classes liquid
+    #classes liquid, transitive
 #entry
     #values squirt, squirting, squirted, squirts, squirter, squirted, squirting
-    #classes liquid
+    #classes liquid, transitive, intransitive
 #entry
     #values sprinkle, sprinkling, sprinkled, sprinkles, sprinkler, sprinkled, sprinkling
-    #classes liquid
+    #classes liquid, transitive, intransitive
 #entry
     #values drip, dripping, dripped, drips, dripper, dripped, dripping
-    #classes liquid
+    #classes liquid, intransitive, transitive
 #entry
     #values piss, pissing, pissed, pisses, pisser, pissed, pissing
-    #classes liquid
+    #classes liquid, intransitive, transitive
 #entry
     #values pour, pouring, poured, pours, pourer, poured, pouring
-    #classes liquid
+    #classes liquid, transitive
 #entry
     #values splash, splashing, splashed, splashes, splasher, splashed, splashing
-    #classes liquid
+    #classes liquid, transitive, intransitive
 #entry
     #values tremble, trembling, trembled, trembles, trembler, trembled, trembling
     #classes motion
@@ -789,4 +904,7 @@
 	#classes sex
 #entry
 	#values fellate, fellating, fellated, fellates, fellater, fellated, fellatio
+	#classes sex
+#entry
+	#values titfuck, titfucking, titfucked, titucks, titfucker, titfucked, titfucking
 	#classes sex
