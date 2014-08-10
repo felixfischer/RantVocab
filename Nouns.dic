@@ -1194,6 +1194,12 @@
     #values yeti, yetis
     #classes animal
 #entry
+	#values demon, demons
+	#classes animal
+#entry
+	#values devil, devils
+	#classes animal
+#entry
     #values boob, boobs
     #classes body, sex, round
 #entry
