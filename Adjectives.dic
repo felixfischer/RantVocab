@@ -492,6 +492,10 @@
 #entry
     #values irritated, anger
 #entry
+	#values horny, horniness
+#entry
+	#values trashy, trashiness
+#entry
     #values patient, patience
 #entry
     #values dizzy, dizziness
@@ -1104,6 +1108,9 @@
 #entry
     #values jealous, envy
     #classes emotion
+#entry
+	#values gay, gayness
+	#classes emotion
 #entry
     #values thankful, thankfulness
     #classes emotion

@@ -1202,6 +1202,9 @@
 #entry
 	#values shit, shits
 #entry
+	#values umbilical cord, umbilical cords
+	#classes long
+#entry
     #values boob, boobs
     #classes body, sex, round
 #entry
@@ -1501,6 +1504,8 @@
     #classes ball, round
 #entry
     #values wig, wigs
+#entry
+	#values motherfucker, motherfuckers
 #entry
     #values skillet, skillets
     #classes container
