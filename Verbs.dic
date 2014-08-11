@@ -76,11 +76,13 @@
 	#classes transitive
 #entry
     #values rustle, rustling, rustled, rustles, rustler, rustled, rustling
+	#classes intransitive
 #entry
     #values examine, examining, examined, examines, examiner, examined, examination
 	#classes transitive
 #entry
     #values fiddle, fiddling, fiddled, fiddles, fiddler, fiddled, fiddling
+	#classes intransitive
 #entry
     #values stew, stewing, stewed, stews, stewer, stewed, stewing
 	#classes transitive
@@ -95,6 +97,7 @@
 	#classes transitive
 #entry
     #values hiccup, hiccuping, hiccuped, hiccups, hiccuper, hiccuped, hiccuping
+	#classes intransitive
 #entry
     #values sanitize, sanitizing, sanitized, sanitizes, sanitizer, sanitized, sanitization
 	#classes transitive
@@ -106,6 +109,7 @@
 	#classes transitive
 #entry
     #values vibrate, vibrating, vibrated, vibrates, vibrator, vibrated, vibration
+	#classes intransitive
 #entry
     #values strain, straining, strained, strains, strainer, strained, straining
 	#classes transitive, intransitive
