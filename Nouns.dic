@@ -1264,7 +1264,7 @@
     #classes body
 #entry
     #values leg, legs
-    #classes body
+    #classes body, long
 #entry
     #values pancreas, pancreases
     #classes body
@@ -1303,7 +1303,7 @@
     #classes body
 #entry
     #values tentacle, tentacles
-    #classes body
+    #classes body, long
 #entry
     #values knuckle, knuckles
     #classes body
@@ -1312,10 +1312,10 @@
     #classes body
 #entry
     #values tongue, tongues
-    #classes body
+    #classes body, long
 #entry
     #values finger, fingers
-    #classes body
+    #classes body, long
 #entry
     #values lip, lips
     #classes body
@@ -1648,3 +1648,5 @@
 	#classes sex, hole
 #entry
 	#values shuttlecock, shuttlecocks
+#entry
+	#values Communist, Communists
