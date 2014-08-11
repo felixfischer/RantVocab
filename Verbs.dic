@@ -862,17 +862,19 @@
     #classes violent
 #entry
     #values nab, nabbing, nabbed, nabs, nabber, nabbed, nabbing
-    #classes violent
+    #classes violent, transitive
 #entry
     #values nail, nailing, nailed, nails, nailer, nailed, nailing
-    #classes violent
+    #classes violent, transitive
 #entry
     #values nip, nipping, nipped, nips, nipper, nipped, nipping
     #classes eat, violent
 #entry
     #values preen, preening, preened, preens, preener, preened, preening
+	#classes transitive
 #entry
     #values ride, riding, rode, rides, rider, ridden, riding
+	#classes transitive
 #entry
     #values rob, robbing, robbed, robs, robber, robbed, robbery
     #classes violent, transitive
@@ -900,6 +902,7 @@
 	#classes sex, transitive
 #entry
 	#values toast, toasting, toasted, toasts, toaster, toasted, toasting
+	#classes transitive
 #entry
 	#values fuck, fucking, fucked, fucks, fucker, fucked, fucking
 	#classes sex, transitive, intransitive
@@ -927,3 +930,12 @@
 #entry
 	#values thrust, thrusting, thrusted, thrusts, thruster, thrusted, thrusting
 	#classes motion, sex, transitive, intransitive
+#entry
+	#values rotate, rotating, rotated, rotates, rotator, rotated, rotation
+	#classes motion, transitive, intransitive
+#entry
+	#values push, pushing, pushed, pushes, pusher, pushed, pushing
+	#classes move, transitive
+#entry
+	#values chill, chilling, chilled, chills, chiller, chilled, chilling
+	#classes transitive
