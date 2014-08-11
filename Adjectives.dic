@@ -330,7 +330,11 @@
 #entry
     #values soft, softness
 #entry
-    #values moist, moistness
+    #values moist, moisture
+	#weight 10
+#entry
+	#values flaccid, flaccidness
+	#classes appearance
 #entry
     #values smooth, smoothness
 #entry

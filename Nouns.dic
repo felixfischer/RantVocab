@@ -242,6 +242,9 @@
     #values grape, grapes
     #classes fruit
 #entry
+	#values kumquat, kumquats
+	#classes fruit
+#entry
     #values grass, grasses
 #entry
     #values garbage can, garbage cans
@@ -434,12 +437,19 @@
     #values piano, pianos
     #classes instrument
 #entry
+	#values trombone, trombones
+	#classes instrument
+#entry
     #values accordion, accordions
     #classes instrument
 #entry
     #values biscuit, biscuits
 #entry
     #values pope, popes
+#entry
+	#values flapjack, flapjacks
+#entry
+	#values ointment, ointments
 #entry
     #values pumpkin, pumpkins
     #classes plant
@@ -1448,6 +1458,9 @@
     #values face, faces
     #classes body
 #entry
+	#values loin, loins
+	#classes body
+#entry
     #values wand, wands
     #classes tool, long
 #entry
@@ -1633,3 +1646,5 @@
 #entry
 	#values goatse, goatses
 	#classes sex, hole
+#entry
+	#values shuttlecock, shuttlecocks

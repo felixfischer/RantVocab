@@ -807,6 +807,7 @@
     #classes violent
 #entry
     #values customize, customizing, customized, customizes, customizer, customized, customization
+	#classes transitive
 #entry
     #values decorate, decorating, decorated, decorates, decorator, decorated, decoration
 #entry
@@ -874,9 +875,10 @@
     #values ride, riding, rode, rides, rider, ridden, riding
 #entry
     #values rob, robbing, robbed, robs, robber, robbed, robbery
-    #classes violent
+    #classes violent, transitive
 #entry
     #values sharpen, sharpening, sharpened, sharpens, sharpener, sharpened, sharpening
+	#classes transitive
 #entry
     #values snuggle, snuggling, snuggled, snuggles, snuggler, snuggled, snuggling
 #entry
@@ -887,24 +889,41 @@
     #classes liquid
 #entry
     #values donate, donating, donated, donates, donater, donated, donation
+	#classes transitive
 #entry
 	#values purify, purifying, purified, purifies, purifier, purified, purification
+	#classes transitive
 #entry
 	#values rapture, rapturing, raptured, raptures, rapturer, raptured, rapture
 #entry
 	#values turbohump, turbohumping, turbohumped, turbohumps, turbohumper, turbohumped, turbohumpification
-	#classes sex, 
+	#classes sex, transitive
 #entry
 	#values toast, toasting, toasted, toasts, toaster, toasted, toasting
 #entry
 	#values fuck, fucking, fucked, fucks, fucker, fucked, fucking
-	#classes sex
+	#classes sex, transitive, intransitive
 #entry
 	#values masturbate, masturbating, masturbated, masturbates, masturbator, masturbated, masturbation
-	#classes sex
+	#classes sex, intransitive
 #entry
 	#values fellate, fellating, fellated, fellates, fellater, fellated, fellatio
-	#classes sex
+	#classes sex, transitive
 #entry
 	#values titfuck, titfucking, titfucked, titucks, titfucker, titfucked, titfucking
-	#classes sex
+	#classes sex, transitive
+#entry
+	#values liquidate, liquidating, liquidated, liquidates, liquidator, liquidated, liquidation
+	#classes transitive
+#entry
+	#values lather, lathering, lathered, lathers, latherer, lathered, lathering
+	#classes intransitive
+#entry
+	#values masticate, masticating, masticated, masticates, masticater, masticated, mastication
+	#classes eat
+#entry
+	#values chew, chewing, chewed, chews, chewer, chewed, chewing
+	#classes eat
+#entry
+	#values thrust, thrusting, thrusted, thrusts, thruster, thrusted, thrusting
+	#classes motion, sex, transitive, intransitive
