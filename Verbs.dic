@@ -943,3 +943,9 @@
 #entry
 	#values chill, chilling, chilled, chills, chiller, chilled, chilling
 	#classes transitive
+#entry
+	#values report, reporting, reported, reports, reporter, reported, reporting
+	#classes transitive
+#entry
+	#values please, pleasing, pleased, pleases, pleaser, pleasted, pleasing
+	#classes transitive, sex

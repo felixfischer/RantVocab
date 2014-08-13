@@ -1,0 +1,49 @@
+#name color
+#one
+
+#entry
+	#values red
+	#classes primary
+#entry
+	#values green
+	#classes primary
+#entry
+	#values blue
+	#classes primary
+#entry
+	#values cyan
+	#classes primary
+#entry
+	#values magenta
+	#classes primary
+#entry
+	#values yellow
+	#classes primary
+#entry
+	#values orange
+#entry
+	#values purple
+#entry
+	#values turquoise
+#entry
+	#values pink
+#entry
+	#values grey
+#entry
+	#values black
+#entry
+	#values white
+#entry
+	#values brown
+#entry
+	#values lime green
+#entry
+	#values lavender
+#entry
+	#values maroon
+#entry
+	#values gold
+#entry
+	#values silver
+#entry
+	#values crimson
