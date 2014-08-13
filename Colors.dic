@@ -1,49 +1,49 @@
 #name color
-#one
+#subtypes default ish
 
 #entry
-	#values red
+	#values red, reddish
 	#classes primary
 #entry
-	#values green
+	#values green, greenish
 	#classes primary
 #entry
-	#values blue
+	#values blue, bluish
 	#classes primary
 #entry
-	#values cyan
+	#values cyan, cyan-ish
 	#classes secondary
 #entry
-	#values magenta
+	#values magenta, magenta-ish
 	#classes secondary
 #entry
-	#values yellow
+	#values yellow, yellowish
 	#classes secondary
 #entry
-	#values orange
+	#values orange, orangish
 #entry
-	#values purple
+	#values purple, purplish
 #entry
-	#values turquoise
+	#values turquoise, turquoise-ish
 #entry
-	#values pink
+	#values pink, pinkish
 #entry
-	#values grey
+	#values grey, greyish
 #entry
-	#values black
+	#values black, blackish
 #entry
-	#values white
+	#values white, whitish
 #entry
-	#values brown
+	#values brown, brownish
 #entry
-	#values lime green
+	#values lime green, lime-green-ish
 #entry
-	#values lavender
+	#values lavender, lavenderish
 #entry
-	#values maroon
+	#values maroon, maroonish
 #entry
-	#values gold
+	#values gold, goldish
 #entry
-	#values silver
+	#values silver, silverish
 #entry
-	#values crimson
+	#values crimson, crimsonish
