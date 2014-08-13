@@ -12,13 +12,13 @@
 	#classes primary
 #entry
 	#values cyan
-	#classes primary
+	#classes secondary
 #entry
 	#values magenta
-	#classes primary
+	#classes secondary
 #entry
 	#values yellow
-	#classes primary
+	#classes secondary
 #entry
 	#values orange
 #entry
