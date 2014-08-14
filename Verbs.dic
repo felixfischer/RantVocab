@@ -935,6 +935,9 @@
 	#values thrust, thrusting, thrusted, thrusts, thruster, thrusted, thrusting
 	#classes motion, sex, transitive, intransitive
 #entry
+	#values mount, mounting, mounted, mounts, mounter, mounted, mounting
+	#classes sex, transitive
+#entry
 	#values rotate, rotating, rotated, rotates, rotator, rotated, rotation
 	#classes motion, transitive, intransitive
 #entry
