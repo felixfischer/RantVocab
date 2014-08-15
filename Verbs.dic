@@ -952,3 +952,9 @@
 #entry
 	#values please, pleasing, pleased, pleases, pleaser, pleasted, pleasing
 	#classes transitive, sex
+#entry
+	#values cockblast, cockblasting, cockflasted, cockblasts, cockblaster, cockblasted, cockblasting
+	#classes transitive, sex, liquid
+#entry
+	#values ejaculate, ejaculating, ejaculated, ejaculates, ejaculator, ejaculated, ejaculation
+	#classes intransitive, sex, liquid
