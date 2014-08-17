@@ -1,19 +1,7 @@
 #name substance
 #one
 #entry
-    #values jizz
-#entry
     #values water
-#entry
-    #values urine
-#entry
-    #values pee
-#entry
-    #values piss
-#entry
-    #values pisswater
-#entry
-    #values diarrhea
 #entry
     #values vomit
 #entry
@@ -59,17 +47,11 @@
 #entry
     #values vinegar
 #entry
-    #values crotch juice
-#entry
     #values paint
 #entry
     #values liquid nitrogen
 #entry
     #values tomato sauce
-#entry
-    #values cum
-#entry
-    #values lube
 #entry
     #values ink
 #entry
@@ -95,8 +77,31 @@
 #entry
     #values acid
 #entry
-	#values dick cheese
-#entry
 	#values magma
 #entry
 	#values happiness
+
+#nsfw
+
+#entry
+	#values dick cheese
+#entry
+    #values cum
+#entry
+    #values lube
+#entry
+    #values crotch juice
+#entry
+    #values pee
+#entry
+    #values piss
+#entry
+    #values pisswater
+#entry
+    #values diarrhea
+#entry
+    #values jizz
+#entry
+    #values urine
+
+#endnsfw

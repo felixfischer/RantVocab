@@ -333,9 +333,6 @@
     #values moist, moisture
 	#weight 10
 #entry
-	#values flaccid, flaccidness
-	#classes appearance
-#entry
     #values smooth, smoothness
 #entry
     #values torturous, torturousness
@@ -394,8 +391,6 @@
 #entry
     #values raunchy, raunchiness
 #entry
-    #values sexy, sex appeal
-#entry
     #values romantic, romance
 #entry
     #values young, youth
@@ -439,8 +434,6 @@
     #values grassy, grassiness
 #entry
     #values musical, music
-#entry
-    #values ravishing, rock-solid arousal
 #entry
     #values outstanding, amazement
 #entry
@@ -495,10 +488,6 @@
     #values jubilant, happiness
 #entry
     #values irritated, anger
-#entry
-	#values horny, horniness
-#entry
-	#values trashy, trashiness
 #entry
     #values patient, patience
 #entry
@@ -1404,8 +1393,6 @@
 #entry
     #values contaminated, contamination
 #entry
-    #values kinky, kinkiness
-#entry
 	#values unfortunate, misfortune
 #entry
 	#values fortunate, fortune
@@ -1431,3 +1418,23 @@
 	#values edgy, edginess
 #entry
 	#values artsy, artsiness
+	
+#nsfw
+
+#entry
+	#values flaccid, flaccidness
+	#classes appearance
+#entry
+    #values sexy, sex appeal
+#entry
+    #values ravishing, rock-solid arousal
+#entry
+	#values horny, horniness
+#entry
+    #values kinky, kinkiness
+#entry
+	#values trashy, trashiness
+#entry
+	#values sexual, sexuality
+
+#endnsfw

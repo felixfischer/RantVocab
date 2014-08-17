@@ -7,39 +7,6 @@
 #entry
     #values fetus, fetuses
 #entry
-    #values boner, boners
-    #classes body, sex, long
-#entry
-    #values dick, dicks
-    #classes body, sex, long
-#entry
-    #values cock, cocks
-    #classes body, sex, long
-#entry
-    #values asshole, assholes
-    #classes body, hole
-#entry
-    #values ballsack, ballsacks
-    #classes body, sex
-#entry
-    #values testicle, testicles
-    #classes body, sex
-#entry
-    #values scrotum, scrotums
-    #classes body, sex
-#entry
-    #values pube, pubes
-    #classes body
-#entry
-    #values penis, penises
-    #classes body, sex, long
-#entry
-    #values vagina, vaginas
-    #classes body, hole, sex
-#entry
-	#values pussy, pussies
-	#classes body, hole, sex
-#entry
     #values mouth, mouths
     #classes body, hole
 #entry
@@ -98,15 +65,11 @@
 #entry
     #values truffle, truffles
 #entry
-    #values poo-poo, poo-poos
-#entry
     #values gearshift, gearshifts
 #entry
     #values ghost, ghosts
 #entry
     #values ridge, ridges
-#entry
-    #values poop, poops
 #entry
     #values meat, meats
     #weight 10
@@ -213,8 +176,6 @@
     #classes weapon
 #entry
     #values money, money
-#entry
-    #values yeast, yeast infections
 #entry
     #values car, cars
 #entry
@@ -1030,9 +991,6 @@
     #values can opener, can openers
     #classes tool
 #entry
-    #values butthair, butthairs
-    #classes tool
-#entry
     #values stapler, staplers
     #classes tool, weapon
 #entry
@@ -1210,13 +1168,8 @@
 	#values devil, devils
 	#classes animal
 #entry
-	#values shit, shits
-#entry
 	#values umbilical cord, umbilical cords
 	#classes long
-#entry
-    #values boob, boobs
-    #classes body, sex, round
 #entry
     #values garden hose, garden hoses
     #classes sex, long, tool
@@ -1443,12 +1396,6 @@
     #values boxers, boxers
     #classes article
 #entry
-    #values panties, panties
-    #classes article
-#entry
-    #values thong, thongs
-    #classes article
-#entry
     #values mandible, mandibles
     #classes body
 #entry
@@ -1588,6 +1535,26 @@
     #values harpoon, harpoons
     #classes long, weapon
 #entry
+	#values tire, tires
+#entry
+	#values silo, silos
+	#classes long
+#entry
+	#values shuttlecock, shuttlecocks
+#entry
+	#values Communist, Communists
+#entry	
+	#values Democrat, Democrats
+#entry
+	#values Republican, Republicans
+#entry
+	#values president, presidents
+#entry
+	#values anthill, anthills
+	
+#nsfw	
+	
+#entry
 	#values cuntrocket, cuntrockets
 	#classes sex
 #entry
@@ -1634,27 +1601,65 @@
 	#classes body, sex
 #entry
 	#values foreskin, foreskins
-	#classes body, 
-#entry
-	#values silo, silos
-	#classes long
+	#classes body, sex
 #entry
 	#values nipple clamp, nipple clamps
 	#classes tool
 #entry
-	#values tire, tires
-#entry
 	#values goatse, goatses
 	#classes sex, hole
 #entry
-	#values shuttlecock, shuttlecocks
+    #values panties, panties
+    #classes article
 #entry
-	#values Communist, Communists
-#entry	
-	#values Democrat, Democrats
+    #values thong, thongs
+    #classes article
 #entry
-	#values Republican, Republicans
+	#values shit, shits
 #entry
-	#values president, presidents
+    #values boob, boobs
+    #classes body, sex, round
 #entry
-	#values anthill, anthills
+    #values butthair, butthairs
+    #classes tool
+#entry
+    #values poo-poo, poo-poos	
+#entry
+    #values boner, boners
+    #classes body, sex, long
+#entry
+    #values dick, dicks
+    #classes body, sex, long
+#entry
+    #values cock, cocks
+    #classes body, sex, long
+#entry
+    #values asshole, assholes
+    #classes body, hole
+#entry
+    #values ballsack, ballsacks
+    #classes body, sex
+#entry
+    #values testicle, testicles
+    #classes body, sex
+#entry
+    #values scrotum, scrotums
+    #classes body, sex
+#entry
+    #values pube, pubes
+    #classes body
+#entry
+    #values penis, penises
+    #classes body, sex, long
+#entry
+    #values vagina, vaginas
+    #classes body, hole, sex
+#entry
+	#values pussy, pussies
+	#classes body, hole, sex
+#entry
+    #values yeast, yeast infections
+#entry
+    #values poop, poops
+	
+#endnsfw
