@@ -71,6 +71,7 @@
 	#classes transitive
 #entry
     #values moan, moaning, moaned, moans, moaner, moaned, moaning
+	#classes intransitive
 #entry
     #values discipline, disciplining, disciplined, disciplines, discipliner, disciplined, discipline
 	#classes transitive
@@ -346,9 +347,6 @@
     #values handle, handling, handled, handles, handler, handled, handling
 	#classes transitive
 #entry
-    #values finger, fingering, fingered, fingers, fingerer, fingered, fingering
-	#classes transitive
-#entry
     #values manipulate, manipulating, manipulated, manipulates, manipulator, manipulated, manipulation
 	#classes transitive
 #entry
@@ -424,9 +422,6 @@
     #values nibble, nibbling, nibbled, nibbles, nibbler, nibbled, nibbling
     #classes eat, transitive
 #entry
-    #values defecate, defecating, defecated, defecates, defecator, defecated, defecation
-    #classes liquid, intransitive, transitive
-#entry
     #values spurt, spurting, spurted, spurts, spurter, spurted, spurting
     #classes liquid, intransitive, transitive
 #entry
@@ -446,9 +441,6 @@
     #classes liquid, intransitive, transitive
 #entry
     #values smatter, smattering, smattered, smatters, smatterer, smattered, smattering
-    #classes liquid, intransitive
-#entry
-    #values urinate, urinating, urinated, urinates, urinator, urinated, urination
     #classes liquid, intransitive
 #entry
     #values splatter, splattering, splattered, splatters, splatterer, splattered, splattering
@@ -733,12 +725,6 @@
     #values explode, exploding, exploded, explodes, exploder, exploded, explosion
     #classes violent
 #entry
-    #values grope, groping, groped, gropes, groper, groped, groping
-    #classes violent
-#entry
-    #values twerk, twerking, twerked, twerks, twerker, twerked, twerking
-    #classes motion
-#entry
     #values twang, twanging, twanged, twangs, twanger, twanged, twanging
     #classes motion
 #entry
@@ -766,18 +752,19 @@
     #classes violent
 #entry
     #values sue, suing, sued, sues, suer, sued, suing
-    #classes legal
+    #classes legal, transitive
 #entry
     #values prosecute, prosecuting, prosecuted, prosecutes, prosecuter, prosecuted, prosecution
-    #classes legal
+    #classes legal, transitive
 #entry
     #values convict, convicting, convicted, convicts, convicter, convicted, conviction
-    #classes legal
+    #classes legal, transitive
 #entry
     #values legalize, legalizing, legalized, legalizes, legalizer, legalized, legalization
-    #classes legal
+    #classes legal, transitive
 #entry
     #values bathe, bathing, bathed, bathes, bather, bathed, bathing
+	#classes intransitive, transitive
 #entry
     #values sleepwalk, sleepwalking, sleepwalked, sleepwalks, sleepwalker, sleepwalked, sleepwalking
     #classes walk
@@ -808,12 +795,13 @@
     #classes motion
 #entry
     #values cripple, crippling, crippled, cripples, crippler, crippled, crippling
-    #classes violent
+    #classes violent, transitive
 #entry
     #values customize, customizing, customized, customizes, customizer, customized, customization
 	#classes transitive
 #entry
     #values decorate, decorating, decorated, decorates, decorator, decorated, decoration
+	#classes transitive
 #entry
     #values dissect, dissecting, dissected, dissects, dissector, dissected, dissection
     #classes violent
@@ -827,13 +815,11 @@
     #values gnaw, gnawing, gnawed, gnaws, gnawer, gnawed, gnawing
     #classes eat
 #entry
-    #values gyrate, gyrating, gyrated, gyrates, gyrator, gyrated, gyration
-    #classes motion, move
-#entry
     #values harass, harassing, harassed, harasses, harasser, harassed, harassment
-    #classes violent
+    #classes violent, transitive
 #entry
     #values hoist, hostng, hoisted, hoists, hoister, hoisted, hoisting
+	#classes transitive
 #entry
     #values hurl, hurling, hurled, hurls, hurler, hurled, hurling
     #classes motion
@@ -902,11 +888,54 @@
 #entry
 	#values rapture, rapturing, raptured, raptures, rapturer, raptured, rapture
 #entry
-	#values turbohump, turbohumping, turbohumped, turbohumps, turbohumper, turbohumped, turbohumpification
-	#classes sex, transitive
-#entry
 	#values toast, toasting, toasted, toasts, toaster, toasted, toasting
 	#classes transitive
+#entry
+	#values liquidate, liquidating, liquidated, liquidates, liquidator, liquidated, liquidation
+	#classes transitive
+#entry
+	#values lather, lathering, lathered, lathers, latherer, lathered, lathering
+	#classes intransitive
+#entry
+	#values masticate, masticating, masticated, masticates, masticater, masticated, mastication
+	#classes eat, intransitive, transitive
+#entry
+	#values chew, chewing, chewed, chews, chewer, chewed, chewing
+	#classes eat, intransitive, transitive
+#entry
+	#values rotate, rotating, rotated, rotates, rotator, rotated, rotation
+	#classes motion, transitive, intransitive
+#entry
+	#values push, pushing, pushed, pushes, pusher, pushed, pushing
+	#classes move, transitive
+#entry
+	#values chill, chilling, chilled, chills, chiller, chilled, chilling
+	#classes transitive
+#entry
+	#values report, reporting, reported, reports, reporter, reported, reporting
+	#classes transitive
+
+	
+#nsfw
+
+#entry
+	#values cockblast, cockblasting, cockflasted, cockblasts, cockblaster, cockblasted, cockblasting
+	#classes transitive, sex, liquid
+#entry
+	#values ejaculate, ejaculating, ejaculated, ejaculates, ejaculator, ejaculated, ejaculation
+	#classes intransitive, sex, liquid
+#entry
+	#values fertilize, fertilizing, fertilized, fertilizes, fertilizer, fertilized, fertilization
+	#classes transitive
+#entry
+	#values please, pleasing, pleased, pleases, pleaser, pleasted, pleasing
+	#classes transitive, sex
+#entry
+	#values thrust, thrusting, thrusted, thrusts, thruster, thrusted, thrusting
+	#classes motion, sex, transitive, intransitive
+#entry
+	#values mount, mounting, mounted, mounts, mounter, mounted, mounting
+	#classes sex, transitive
 #entry
 	#values fuck, fucking, fucked, fucks, fucker, fucked, fucking
 	#classes sex, transitive, intransitive
@@ -920,41 +949,25 @@
 	#values titfuck, titfucking, titfucked, titucks, titfucker, titfucked, titfucking
 	#classes sex, transitive
 #entry
-	#values liquidate, liquidating, liquidated, liquidates, liquidator, liquidated, liquidation
-	#classes transitive
-#entry
-	#values lather, lathering, lathered, lathers, latherer, lathered, lathering
-	#classes intransitive
-#entry
-	#values masticate, masticating, masticated, masticates, masticater, masticated, mastication
-	#classes eat
-#entry
-	#values chew, chewing, chewed, chews, chewer, chewed, chewing
-	#classes eat
-#entry
-	#values thrust, thrusting, thrusted, thrusts, thruster, thrusted, thrusting
-	#classes motion, sex, transitive, intransitive
-#entry
-	#values mount, mounting, mounted, mounts, mounter, mounted, mounting
+	#values turbohump, turbohumping, turbohumped, turbohumps, turbohumper, turbohumped, turbohumpification
 	#classes sex, transitive
 #entry
-	#values rotate, rotating, rotated, rotates, rotator, rotated, rotation
-	#classes motion, transitive, intransitive
+    #values gyrate, gyrating, gyrated, gyrates, gyrator, gyrated, gyration
+    #classes motion, move, intransitive
 #entry
-	#values push, pushing, pushed, pushes, pusher, pushed, pushing
-	#classes move, transitive
+    #values grope, groping, groped, gropes, groper, groped, groping
+    #classes violent
 #entry
-	#values chill, chilling, chilled, chills, chiller, chilled, chilling
+    #values twerk, twerking, twerked, twerks, twerker, twerked, twerking
+    #classes motion
+#entry
+    #values defecate, defecating, defecated, defecates, defecator, defecated, defecation
+    #classes liquid, intransitive, transitive
+#entry
+    #values urinate, urinating, urinated, urinates, urinator, urinated, urination
+    #classes liquid, intransitive
+#entry
+    #values finger, fingering, fingered, fingers, fingerer, fingered, fingering
 	#classes transitive
-#entry
-	#values report, reporting, reported, reports, reporter, reported, reporting
-	#classes transitive
-#entry
-	#values please, pleasing, pleased, pleases, pleaser, pleasted, pleasing
-	#classes transitive, sex
-#entry
-	#values cockblast, cockblasting, cockflasted, cockblasts, cockblaster, cockblasted, cockblasting
-	#classes transitive, sex, liquid
-#entry
-	#values ejaculate, ejaculating, ejaculated, ejaculates, ejaculator, ejaculated, ejaculation
-	#classes intransitive, sex, liquid
+	
+#endnsfw
