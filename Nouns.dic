@@ -1465,8 +1465,6 @@
 #entry
     #values wig, wigs
 #entry
-	#values motherfucker, motherfuckers
-#entry
     #values skillet, skillets
     #classes container
 #entry
@@ -1661,5 +1659,10 @@
     #values yeast, yeast infections
 #entry
     #values poop, poops
+#entry
+	#values motherfucker, motherfuckers
+#entry
+	#values bitch, bitches
+	#classes animal
 	
 #endnsfw
