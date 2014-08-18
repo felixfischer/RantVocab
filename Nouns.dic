@@ -1549,6 +1549,9 @@
 	#values president, presidents
 #entry
 	#values anthill, anthills
+#entry
+	#values battering ram, battering rams
+	#classes long, weapon, tool
 	
 #nsfw	
 	
@@ -1664,5 +1667,8 @@
 #entry
 	#values bitch, bitches
 	#classes animal
+#entry
+	#values chesticle, chesticles
+	#classes body
 	
 #endnsfw

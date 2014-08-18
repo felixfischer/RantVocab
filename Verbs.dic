@@ -495,7 +495,7 @@
     #classes motion
 #entry
     #values screw, screwing, screwed, screws, screwer, screwed, screwing
-    #classes motion
+    #classes motion, insert
 #entry
     #values pump, pumping, pumped, pumps, pumper, pumped, pumping
     #classes motion
@@ -504,7 +504,7 @@
     #classes motion
 #entry
     #values poke, poking, poked, pokes, poker, poked, poking
-    #classes motion
+    #classes motion, insert
 #entry
     #values crank, cranking, cranked, cranks, cranker, cranked, cranking
     #classes motion
@@ -516,7 +516,7 @@
     #classes motion
 #entry
     #values stick, sticking, stuck, sticks, sticker, stuck, sticking
-    #classes motion
+    #classes motion, insert
 #entry
     #values move, moving, moved, moves, mover, moved, moving
     #classes motion
@@ -537,10 +537,10 @@
     #classes motion
 #entry
     #values prod, prodding, prodded, prods, prodder, prodded, prodding
-    #classes motion
+    #classes motion, insert
 #entry
     #values wedge, wedging, wedged, wedges, wedger, wedged, wedging
-    #classes motion
+    #classes motion, insert
 #entry
     #values blow, blowing, blew, blows, blower, blown, blowing
     #classes motion
@@ -567,7 +567,7 @@
     #classes motion
 #entry
     #values inject, injecting, injected, injects, injector, injected, injection
-    #classes motion
+    #classes motion, insert
 #entry
     #values slip, slipping, slipped, slips, slipper, slipped, slipping
     #classes motion
@@ -792,7 +792,7 @@
     #values crash, crashing, crashed, crashes, crasher, crashed, crashing
 #entry
     #values cram, cramming, crammed, crams, crammer, crammed, cramming
-    #classes motion
+    #classes motion, insert
 #entry
     #values cripple, crippling, crippled, cripples, crippler, crippled, crippling
     #classes violent, transitive
@@ -809,6 +809,7 @@
     #values dramatize, dramatizing, dramatized, dramatizes, dramatizer, dramatized, dramatization
 #entry
     #values feed, feeding, fed, feeds, feeder, fed, feeding
+	#classes transitive, insert
 #entry
     #values forecast, forecasting, forecasted, forecasts, forecaster, forecasted, forecasting
 #entry
@@ -855,7 +856,7 @@
     #classes violent, transitive
 #entry
     #values nail, nailing, nailed, nails, nailer, nailed, nailing
-    #classes violent, transitive
+    #classes violent, transitive, insert
 #entry
     #values nip, nipping, nipped, nips, nipper, nipped, nipping
     #classes eat, violent
@@ -873,12 +874,13 @@
 	#classes transitive
 #entry
     #values snuggle, snuggling, snuggled, snuggles, snuggler, snuggled, snuggling
+	#classes transitive, intransitive
 #entry
     #values gush, gushing, gushed, gushes, gusher, gushed, gushing
     #classes liquid
 #entry
     #values puke, puking, puked, pukes, puker, puked, puking
-    #classes liquid
+    #classes liquid, intransitive
 #entry
     #values donate, donating, donated, donates, donater, donated, donation
 	#classes transitive
@@ -907,14 +909,19 @@
 	#classes motion, transitive, intransitive
 #entry
 	#values push, pushing, pushed, pushes, pusher, pushed, pushing
-	#classes move, transitive
+	#classes move, transitive, insert
 #entry
 	#values chill, chilling, chilled, chills, chiller, chilled, chilling
 	#classes transitive
 #entry
 	#values report, reporting, reported, reports, reporter, reported, reporting
 	#classes transitive
-
+#entry
+	#values plunge, plunging, plunged, plunges, plunger, plunged, plunging
+	#classes transitive, insert
+#entry
+	#values ram, ramming, rammed, rams, rammer, rammed, ramming
+	#classes transitive, insert
 	
 #nsfw
 
@@ -931,8 +938,8 @@
 	#values please, pleasing, pleased, pleases, pleaser, pleasted, pleasing
 	#classes transitive, sex
 #entry
-	#values thrust, thrusting, thrusted, thrusts, thruster, thrusted, thrusting
-	#classes motion, sex, transitive, intransitive
+	#values thrust, thrusting, thrust, thrusts, thruster, thrusted, thrusting
+	#classes motion, sex, transitive, intransitive, insert
 #entry
 	#values mount, mounting, mounted, mounts, mounter, mounted, mounting
 	#classes sex, transitive
@@ -956,10 +963,10 @@
     #classes motion, move, intransitive
 #entry
     #values grope, groping, groped, gropes, groper, groped, groping
-    #classes violent
+    #classes violent, transitive
 #entry
     #values twerk, twerking, twerked, twerks, twerker, twerked, twerking
-    #classes motion
+    #classes motion, intransitive
 #entry
     #values defecate, defecating, defecated, defecates, defecator, defecated, defecation
     #classes liquid, intransitive, transitive
