@@ -1225,6 +1225,9 @@
     #values stinger, stingers
     #classes body
 #entry
+	#values scapula, scapulas
+	#classes body
+#entry
     #values gallbladder, gallbladders
     #classes body
 #entry
