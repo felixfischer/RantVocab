@@ -1,4 +1,4 @@
-#name verb-speech
+#name verbspeech
 #subtypes said sound
 #entry
     #values said, saying
